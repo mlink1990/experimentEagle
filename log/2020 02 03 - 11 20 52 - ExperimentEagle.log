@@ -1,0 +1,6 @@
+2020-02-03 11:20:52,710 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-02-03 11:21:13,585 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2020-02-03 11:21:13,585 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2020-02-03 11:21:13,601 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2020-02-03 11:21:19,413 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot

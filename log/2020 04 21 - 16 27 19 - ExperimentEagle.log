@@ -1,0 +1,26 @@
+2020-04-21 16:27:19,757 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=60] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-04-21 16:27:28,029 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-21 16:27:28,029 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-04-21 16:27:28,042 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-04-21 16:27:34,571 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-21 16:27:39,256 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor1 via SOLIS
+2020-04-21 16:27:39,275 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 3, u'min': -0.2}
+2020-04-21 16:27:39,290 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-04-21 16:27:39,313 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-21 16:27:40,413 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1079] Configure watch folder for Andor1 via SOLIS
+2020-04-21 16:27:41,428 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-21 16:27:41,437 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-04-21 16:27:41,438 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-21 16:27:41,479 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-21 16:27:41,499 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-04-21 16:27:41,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-21 16:27:42,256 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-04-21 16:27:47,082 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=73] detected a cancel return code. Will not update optionsDict
+2020-04-21 16:30:57,944 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-21 16:30:57,960 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-04-21 16:30:57,961 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-21 16:30:57,990 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-21 16:30:57,992 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-04-21 16:30:57,993 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-21 16:31:38,867 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=238] attempting to stop timers

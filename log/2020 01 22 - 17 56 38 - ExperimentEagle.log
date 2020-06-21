@@ -1,0 +1,544 @@
+2020-01-22 17:56:38,869 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-01-22 17:56:49,502 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2020-01-22 17:56:49,502 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2020-01-22 17:56:49,502 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2020-01-22 17:56:55,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:56:58,848 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to Alta1
+2020-01-22 17:56:58,880 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 5, u'min': -0.2}
+2020-01-22 17:56:58,880 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=139] image file not found. filling with zeros
+2020-01-22 17:56:58,880 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:56:59,753 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1061] Configure watch folder for Alta1
+2020-01-22 17:57:01,780 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:57:01,780 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:57:01,780 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-01-22 17:57:02,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:57:02,015 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:57:02,015 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:57:02,015 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:57:03,793 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:57:03,793 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:57:04,355 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.5137858391
+2020-01-22 17:57:04,510 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:57:04,510 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:57:04,510 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:57:04,510 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:57:09,878 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2020-01-22 17:57:09,878 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2020-01-22 17:57:09,878 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=False)
+2020-01-22 17:57:09,878 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=False)
+2020-01-22 17:57:09,892 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=45] key press action found for : <enable.base_tool.KeySpec object at 0x0A5B8030>
+2020-01-22 17:57:09,892 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2020-01-22 17:57:09,892 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=True)
+2020-01-22 17:57:38,005 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:57:38,005 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:57:38,176 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4368066788
+2020-01-22 17:57:38,332 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:57:38,332 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:57:38,332 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:57:38,332 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:58:10,204 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:58:10,204 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:58:10,375 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.7826793194
+2020-01-22 17:58:10,532 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:58:10,532 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:58:10,532 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:58:10,532 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:58:42,411 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:58:42,411 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:58:42,582 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.9936549664
+2020-01-22 17:58:42,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:58:42,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:58:42,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:58:42,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:59:14,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:59:14,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:59:14,775 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.3512768745
+2020-01-22 17:59:14,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:59:14,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:59:14,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:59:14,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:59:36,746 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 17:59:36,746 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 17:59:36,923 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.685103178
+2020-01-22 17:59:37,084 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 17:59:37,084 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 17:59:37,084 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 17:59:37,084 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:00:08,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:00:08,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:00:09,111 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0880026817
+2020-01-22 18:00:09,266 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:00:09,266 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:00:09,266 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:00:09,266 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:00:41,132 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:00:41,132 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:00:41,303 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.3606026173
+2020-01-22 18:00:41,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:00:41,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:00:41,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:00:41,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:01:13,331 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:01:13,331 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:01:13,503 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5706870556
+2020-01-22 18:01:13,658 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:01:13,658 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:01:13,658 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:01:13,658 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:01:45,539 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:01:45,539 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:01:45,710 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.75629282
+2020-01-22 18:01:45,867 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:01:45,867 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:01:45,867 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:01:45,867 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:02:17,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:02:17,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:02:17,908 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1347389221
+2020-01-22 18:02:18,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:02:18,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:02:18,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:02:18,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:02:49,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:02:49,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:02:50,101 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4658153057
+2020-01-22 18:02:50,257 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:02:50,257 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:02:50,257 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:02:50,257 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:03:12,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:03:12,073 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:03:12,295 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5299143791
+2020-01-22 18:03:12,454 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:03:12,459 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:03:12,463 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:03:12,463 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:03:44,263 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:03:44,263 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:03:44,918 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.9442667961
+2020-01-22 18:03:45,075 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:03:45,075 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:03:45,075 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:03:45,075 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:04:16,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:04:16,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:04:16,645 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.630490303
+2020-01-22 18:04:16,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:04:16,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:04:16,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:04:16,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:04:48,670 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:04:48,670 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:04:48,841 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5257985592
+2020-01-22 18:04:48,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:04:48,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:04:48,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:04:48,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:05:20,859 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:05:20,859 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:05:21,042 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.6423304081
+2020-01-22 18:05:21,191 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:05:21,191 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:05:21,191 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:05:21,191 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:05:53,061 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:05:53,061 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:05:53,232 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0827496052
+2020-01-22 18:05:53,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:05:53,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:05:53,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:05:53,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:06:25,259 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:06:25,259 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:06:25,430 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1952443123
+2020-01-22 18:06:25,586 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:06:25,586 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:06:25,586 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:06:25,586 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:06:47,405 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:06:47,405 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:06:47,576 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4992012978
+2020-01-22 18:06:47,763 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:06:47,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:06:47,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:06:47,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:07:19,605 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:07:19,605 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:07:19,786 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.7630572319
+2020-01-22 18:07:19,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:07:19,946 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:07:19,948 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:07:19,950 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:07:51,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:07:51,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:07:51,960 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0344941616
+2020-01-22 18:07:52,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:07:52,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:07:52,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:07:52,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:08:23,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:08:23,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:08:24,168 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4242880344
+2020-01-22 18:08:24,325 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:08:24,325 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:08:24,325 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:08:24,325 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:08:56,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:08:56,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:08:56,382 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1177353859
+2020-01-22 18:08:56,540 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:08:56,543 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:08:56,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:08:56,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:09:28,410 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:09:28,410 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:09:28,582 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.9275727272
+2020-01-22 18:09:28,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:09:28,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:09:28,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:09:28,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:09:50,548 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:09:50,548 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:09:50,720 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.3101468086
+2020-01-22 18:09:50,875 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:09:50,875 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:09:50,875 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:09:50,875 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:10:22,739 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:10:22,739 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:10:22,911 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5312917233
+2020-01-22 18:10:23,066 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:10:23,066 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:10:23,066 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:10:23,066 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:10:54,936 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:10:54,936 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:10:55,607 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.6945040226
+2020-01-22 18:10:55,763 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:10:55,766 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:10:55,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:10:55,770 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:11:27,144 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:11:27,144 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:11:27,315 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1062309742
+2020-01-22 18:11:27,471 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:11:27,471 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:11:27,471 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:11:27,471 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:11:59,334 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:11:59,334 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:11:59,506 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.2827329636
+2020-01-22 18:11:59,661 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:11:59,661 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:11:59,661 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:11:59,661 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:12:31,540 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:12:31,540 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:12:31,713 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4360375404
+2020-01-22 18:12:31,871 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:12:31,875 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:12:31,878 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:12:31,878 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:13:03,743 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:13:03,743 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:13:03,914 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.9218287468
+2020-01-22 18:13:04,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:13:04,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:13:04,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:13:04,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:13:25,865 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:13:25,865 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:13:26,036 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1523625851
+2020-01-22 18:13:26,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:13:26,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:13:26,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:13:26,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:13:58,071 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:13:58,071 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:13:58,243 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5530910492
+2020-01-22 18:13:58,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:13:58,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:13:58,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:13:58,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:14:30,266 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:14:30,266 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:14:30,438 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.7315247059
+2020-01-22 18:14:30,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:14:30,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:14:30,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:14:30,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:15:02,469 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:15:02,470 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:15:02,657 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1165823936
+2020-01-22 18:15:02,811 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:15:02,811 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:15:02,811 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:15:02,811 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:15:34,674 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:15:34,674 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:15:34,846 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.2539715767
+2020-01-22 18:15:35,003 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:15:35,003 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:15:35,003 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:15:35,003 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:16:06,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:16:06,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:16:07,039 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.6569519043
+2020-01-22 18:16:07,196 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:16:07,196 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:16:07,196 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:16:07,196 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:16:39,058 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:16:39,058 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:16:39,230 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.8211481571
+2020-01-22 18:16:39,385 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:16:39,385 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:16:39,385 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:16:39,385 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:17:01,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:17:01,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:17:01,368 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0444989204
+2020-01-22 18:17:01,525 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:17:01,525 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:17:01,525 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:17:01,525 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:17:33,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:17:33,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:17:33,566 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4139900208
+2020-01-22 18:17:33,723 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:17:33,723 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:17:33,723 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:17:33,739 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:18:05,599 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:18:05,601 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:18:05,773 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0976660252
+2020-01-22 18:18:05,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:18:05,944 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:18:05,947 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:18:05,947 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:18:37,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:18:37,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:18:38,457 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1624543667
+2020-01-22 18:18:38,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:18:38,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:18:38,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:18:38,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:19:10,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:19:10,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:19:10,171 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.3909907341
+2020-01-22 18:19:10,328 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:19:10,328 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:19:10,328 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:19:10,328 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:19:42,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:19:42,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:19:42,361 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5297729969
+2020-01-22 18:19:42,517 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:19:42,517 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:19:42,517 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:19:42,517 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:20:14,397 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:20:14,397 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:20:14,569 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0327248573
+2020-01-22 18:20:14,724 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:20:14,724 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:20:14,724 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:20:14,724 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:20:36,535 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:20:36,535 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:20:36,710 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1597065926
+2020-01-22 18:20:36,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:20:36,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:20:36,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:20:36,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:21:08,727 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:21:08,727 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:21:08,900 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4528603554
+2020-01-22 18:21:09,055 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:21:09,055 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:21:09,055 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:21:09,055 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:21:40,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:21:40,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:21:41,095 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.7319514751
+2020-01-22 18:21:41,250 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:21:41,250 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:21:41,250 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:21:41,250 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:22:13,121 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:22:13,121 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:22:13,293 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.3686442375
+2020-01-22 18:22:13,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:22:13,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:22:13,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:22:13,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:22:45,319 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:22:45,319 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:22:45,492 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4107348919
+2020-01-22 18:22:45,648 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:22:45,648 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:22:45,648 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:22:45,648 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:23:17,517 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:23:17,517 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:23:17,690 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.6266503334
+2020-01-22 18:23:17,845 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:23:17,845 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:23:17,845 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:23:17,845 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:23:39,664 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:23:39,664 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:23:39,836 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0552866459
+2020-01-22 18:23:39,993 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:23:39,993 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:23:39,993 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:23:39,993 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:24:11,862 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:24:11,862 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:24:12,035 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.2712917328
+2020-01-22 18:24:12,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:24:12,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:24:12,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:24:12,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:24:44,053 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:24:44,053 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:24:44,224 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5418131351
+2020-01-22 18:24:44,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:24:44,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:24:44,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:24:44,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:25:16,252 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:25:16,252 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:25:16,424 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1273086071
+2020-01-22 18:25:16,579 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:25:16,579 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:25:16,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:25:16,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:25:48,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:25:48,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:25:49,118 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.3730475903
+2020-01-22 18:25:49,273 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:25:49,273 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:25:49,273 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:25:49,273 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:26:20,645 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:26:20,645 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:26:20,818 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.4864962101
+2020-01-22 18:26:20,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:26:20,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:26:20,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:26:20,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:26:52,851 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:26:52,851 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:26:53,023 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0024702549
+2020-01-22 18:26:53,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:26:53,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:26:53,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:26:53,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:27:14,987 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:27:14,987 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:27:15,160 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.9834666252
+2020-01-22 18:27:15,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:27:15,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:27:15,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:27:15,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:27:47,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:27:47,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:27:47,352 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.1119129658
+2020-01-22 18:27:47,509 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:27:47,509 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:27:47,523 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:27:47,523 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:28:19,380 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:28:19,380 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:28:19,551 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.6334385872
+2020-01-22 18:28:19,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:28:19,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:28:19,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:28:19,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:28:51,578 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:28:51,578 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:28:51,749 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.7544867992
+2020-01-22 18:28:51,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:28:51,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:28:51,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:28:51,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:29:23,776 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:29:23,776 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:29:23,947 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.1274728775
+2020-01-22 18:29:24,104 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:29:24,104 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:29:24,104 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:29:24,104 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:29:55,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:29:55,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:29:56,144 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.6017727852
+2020-01-22 18:29:56,286 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:29:56,301 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:29:56,301 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:29:56,301 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:30:28,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:30:28,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:30:28,344 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.5347061157
+2020-01-22 18:30:28,483 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:30:28,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:30:28,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:30:28,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:30:50,311 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:30:50,311 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:30:50,482 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 15.8213567734
+2020-01-22 18:30:50,622 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:30:50,622 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:30:50,638 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:30:50,638 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:31:22,509 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:31:22,509 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:31:22,680 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.0239319801
+2020-01-22 18:31:22,821 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:31:22,821 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:31:22,836 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:31:22,836 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:31:54,703 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:31:54,703 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:31:54,875 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 17.675339222
+2020-01-22 18:31:55,016 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:31:55,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:31:55,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:31:55,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:32:16,841 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:32:16,841 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:32:17,013 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 18.1436977386
+2020-01-22 18:32:17,153 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:32:17,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:32:17,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:32:17,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:32:49,052 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:32:49,052 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:32:49,707 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 17.6278760433
+2020-01-22 18:32:49,862 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:32:49,878 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:32:49,878 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:32:49,878 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:33:11,187 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:33:11,187 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:33:11,359 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 18.2442836761
+2020-01-22 18:33:11,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:33:11,516 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:33:11,516 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:33:11,516 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:33:43,375 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:33:43,375 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:33:43,548 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 17.5981354713
+2020-01-22 18:33:43,687 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:33:43,703 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:33:43,703 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:33:43,703 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:34:15,575 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-22 18:34:15,575 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-22 18:34:15,730 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 18.1513035297
+2020-01-22 18:34:15,887 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (512,768)
+2020-01-22 18:34:15,901 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:34:15,901 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-22 18:34:15,901 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-22 18:34:23,872 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=228] attempting to stop timers

@@ -1,0 +1,85 @@
+2020-04-16 15:56:26,029 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=60] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-04-16 15:56:29,848 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-16 15:56:29,848 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-04-16 15:56:29,858 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-04-16 15:56:35,953 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-16 15:56:51,592 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor1 via SOLIS
+2020-04-16 15:56:51,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 3, u'min': -0.2}
+2020-04-16 15:56:51,602 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-04-16 15:56:51,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-16 15:57:08,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-04-16 15:57:08,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-04-16 15:57:08,424 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-04-16 15:57:08,523 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F07E4B0>
+2020-04-16 15:57:08,523 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=75] using standard Andor 0 process function
+2020-04-16 15:57:08,523 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-16 15:57:08,553 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-16 15:57:08,743 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-04-16 15:57:08,813 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-04-16 15:57:08,813 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-04-16 15:57:08,813 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-04-16 15:57:08,813 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-16 15:57:08,823 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-04-16 15:57:08,834 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-16 15:57:08,834 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-04-16 15:57:08,834 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-16 15:57:13,404 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-04-16 15:57:17,203 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=76] returning optionsDict
+2020-04-16 15:57:17,203 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=editOptions:line=116] updating options dictionary with values OrderedDict([('process?', True), ('darkSubtraction?', True), ('rawImageWithDarkSubtraction?', True), ('rescale?', False), ('rescaleInitialX', 350), ('rescaleInitialY', 100), ('rescaleWidth', 100), ('rescaleHeight', 100), ('drawRescaleRegion?', True), ('rotationAngle', 46), ('Skip initial rows', 1), ('Skip final rows', 3), ('correct OD with alpha function?', False), ('Rescale with circular mask?', False), ('Atom mask PosX', 295), ('Atom mask PosY', 295), ('Atom mask Radius', 160), ('Balance light Radius', 200), ('Use boosted light image?', False), ('Light boost factor', 1.0), ('Binning?', False), ('Bin size', 1), ('Dark picture', u'G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor1/2020 03 30 - dark Andor1 - interval 0_017 temperature -80_0 .npy'), ('High intensity correction for low OD?', False), ('alpha', 1.25), ('C0Sat', 231), ('Imaging pulse duration', 6e-06)])
+2020-04-16 15:57:22,894 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-04-16 15:57:24,563 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=73] detected a cancel return code. Will not update optionsDict
+2020-04-16 15:57:25,174 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-16 15:57:25,174 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F07E4B0>
+2020-04-16 15:57:25,174 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=75] using standard Andor 0 process function
+2020-04-16 15:57:25,174 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-16 15:57:25,203 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-16 15:57:25,233 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1024,512)
+2020-04-16 15:57:25,233 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-04-16 15:57:25,233 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-04-16 15:57:25,233 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-16 15:57:25,233 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-04-16 15:57:25,243 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-16 15:57:25,243 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-16 15:57:25,243 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F07E4B0>
+2020-04-16 15:57:25,243 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=75] using standard Andor 0 process function
+2020-04-16 15:57:25,253 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-16 15:57:25,273 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-16 15:57:25,303 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1024,512)
+2020-04-16 15:57:25,303 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-16 15:57:32,184 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=286] Box selection complete
+2020-04-16 15:57:37,013 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 479 
+2020-04-16 15:57:37,013 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 469  
+2020-04-16 15:57:37,013 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 469,479 
+2020-04-16 15:57:37,963 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-04-16 15:57:37,963 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 479 
+2020-04-16 15:57:37,963 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 469  
+2020-04-16 15:57:37,963 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 469,479 
+2020-04-16 15:57:39,813 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 479 
+2020-04-16 15:57:39,823 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 469  
+2020-04-16 15:57:39,823 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 469,479 
+2020-04-16 15:57:39,823 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-04-16 15:57:39,834 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=163] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-04-16 15:57:39,834 [INFO ] [Thread-3] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=825] first fit plot so initialising contour plot
+2020-04-16 15:57:39,854 [INFO ] [Thread-3] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-04-16 15:57:39,914 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=168] saving last fit results to a separate text file
+2020-04-16 15:57:41,394 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_usePreviousFitValuesButton_fired:line=683] use previous fit values button fired. loading previous initial values
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=False)
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=45] key press action found for : <enable.base_tool.KeySpec object at 0x05BA5C90>
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=True)
+2020-04-16 17:38:14,763 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=True)
+2020-04-16 17:38:44,644 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-04-16 17:38:44,654 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 479 
+2020-04-16 17:38:44,654 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 469  
+2020-04-16 17:38:44,654 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 469,479 
+2020-04-16 17:38:45,595 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 479 
+2020-04-16 17:38:45,595 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 469  
+2020-04-16 17:38:45,605 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 469,479 
+2020-04-16 17:38:45,605 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-04-16 17:38:45,615 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=163] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-04-16 17:38:45,615 [INFO ] [Thread-4] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-04-16 17:38:45,684 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=168] saving last fit results to a separate text file
+2020-04-16 20:24:21,444 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=240] couldn't stop current timer 'NoneType' object has no attribute 'stop' 

@@ -1,0 +1,60 @@
+2019-10-01 14:20:51,788 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2019-10-01 14:20:57,872 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-10-01 14:20:57,874 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2019-10-01 14:20:57,943 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2019-10-01 14:21:03,746 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:06,742 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to Andor0
+2019-10-01 14:21:06,773 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 5, u'min': -0.2}
+2019-10-01 14:21:06,789 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=139] image file not found. filling with zeros
+2019-10-01 14:21:06,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:09,035 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for Andor0
+2019-10-01 14:21:11,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-10-01 14:21:11,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-10-01 14:21:11,062 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2019-10-01 14:21:11,219 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0CEFB840>
+2019-10-01 14:21:11,234 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-10-01 14:21:11,234 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-10-01 14:21:13,059 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1619524911520434 using region of shape: 50, 50
+2019-10-01 14:21:13,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-10-01 14:21:13,138 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2019-10-01 14:21:13,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to False
+2019-10-01 14:21:13,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-10-01 14:21:13,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=172] continuing after pixels changed = True event
+2019-10-01 14:21:13,154 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:13,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-10-01 14:21:13,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:25,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-10-01 14:21:25,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-10-01 14:21:25,338 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 20.0978374481
+2019-10-01 14:21:25,494 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0CEFB840>
+2019-10-01 14:21:25,494 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-10-01 14:21:25,494 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-10-01 14:21:27,368 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.2271365830454144 using region of shape: 50, 50
+2019-10-01 14:21:27,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-10-01 14:21:27,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:27,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-10-01 14:21:27,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:27,463 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-10-01 14:21:36,572 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-10-01 14:21:39,667 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-10-01 14:21:43,099 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2019-10-01 14:21:43,099 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2019-10-01 14:21:43,099 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=False)
+2019-10-01 14:21:43,099 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=False)
+2019-10-01 14:21:43,115 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=45] key press action found for : <enable.base_tool.KeySpec object at 0x0A708030>
+2019-10-01 14:21:43,115 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-10-01 14:21:43,115 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=True)
+2019-10-01 14:21:49,292 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-10-01 14:21:49,292 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-10-01 14:21:49,448 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 20.4753677845
+2019-10-01 14:21:49,605 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0CEFB840>
+2019-10-01 14:21:49,605 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-10-01 14:21:49,605 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-10-01 14:21:51,461 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0989424951366025 using region of shape: 50, 50
+2019-10-01 14:21:51,539 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-10-01 14:21:51,539 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:21:51,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-10-01 14:21:51,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-10-01 14:22:05,799 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=73] detected a cancel return code. Will not update optionsDict
+2019-10-01 14:22:13,765 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=228] attempting to stop timers

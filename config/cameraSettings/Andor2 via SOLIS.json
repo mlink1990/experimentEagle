@@ -1,0 +1,38 @@
+{
+    "pixelSize": 13.0,
+    "magnification": 6,
+    "searchString": "ANDOR2[\\s\\w.]*X2.tif",
+    "watchFolder": "T:/TOFAtomNumber/eagleWatchedFolder",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 2
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 3
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 3
+    },
+
+    "scale": 10089.33,
+    "offset": 5000.0,
+    "tofVariable": "ImagingTimeTOFLi",
+
+    "imageMode": "process raw image",
+    "processor": "standard ANDOR 2",
+    "processorOptions": {
+        "Dark picture": "G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor2/2020 02 24 - dark Andor2 - interval 0_01 temperature -80_0 .npy",
+        "rescale?":true,
+        "rescaleInitialX":400,
+        "rescaleInitialY":700,
+        "rescaleWidth":50,
+        "rescaleHeight":50,
+		"rotationAngle":87.8
+    }
+}

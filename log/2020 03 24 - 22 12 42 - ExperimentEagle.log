@@ -1,0 +1,7 @@
+2020-03-24 22:12:42,046 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=60] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-03-24 22:12:46,785 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-03-24 22:12:46,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-03-24 22:12:46,796 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-03-24 22:12:53,290 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-03-24 22:13:33,257 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=240] couldn't stop current timer 'NoneType' object has no attribute 'stop' 

@@ -1,0 +1,22 @@
+2020-02-24 17:06:40,401 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-02-24 17:06:44,532 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 17:06:44,535 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-02-24 17:06:44,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-02-24 17:06:51,387 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 17:06:56,073 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor2
+2020-02-24 17:06:56,088 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 3, u'min': -0.2}
+2020-02-24 17:06:56,118 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 17:06:56,118 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 17:06:57,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1079] Configure watch folder for Andor2
+2020-02-24 17:06:59,174 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=370] more than one new file found [u'ANDOR2_Mon Feb 24 2020_17.04.44_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.02.27_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.04.17_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.01.59_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.02.54_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.03.49_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.03.22_0_X2.tif'] only analysing first one
+2020-02-24 17:06:59,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 17:06:59,213 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 17:06:59,219 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-02-24 17:07:27,170 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 17:07:27,173 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 17:07:27,323 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 19.903908968
+2020-02-24 17:07:55,167 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 17:07:55,176 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 17:07:55,301 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 20.1022102833
+2020-02-24 17:08:01,131 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=238] attempting to stop timers

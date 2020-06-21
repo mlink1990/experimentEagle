@@ -1,0 +1,150 @@
+<one:Page xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" name="Log Name (Important)" dateTime="2016-03-18T13:09:20.000Z" lastModifiedTime="2016-03-20T20:59:48.000Z" pageLevel="1" isCurrentlyViewed="true" lang="en-GB">
+<one:QuickStyleDef index="0" name="PageTitle" fontColor="automatic" highlightColor="automatic" font="Calibri Light" fontSize="20.0" spaceBefore="0.0" spaceAfter="0.0"/>
+<one:QuickStyleDef index="1" name="h1" fontColor="#1E4E79" highlightColor="automatic" font="Calibri" fontSize="16.0" spaceBefore="0.0" spaceAfter="0.0"/>
+<one:QuickStyleDef index="2" name="p" fontColor="automatic" highlightColor="automatic" font="Calibri" fontSize="11.0" spaceBefore="0.0" spaceAfter="0.0"/>
+<one:PageSettings RTL="false" color="automatic">
+<one:PageSize>
+<one:Automatic/>
+</one:PageSize>
+<one:RuleLines visible="false"/>
+</one:PageSettings>
+<one:Title lang="en-GB">
+<one:OE author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" creationTime="2016-03-20T12:53:54.000Z" lastModifiedTime="2016-03-20T12:53:54.000Z" alignment="left" quickStyleIndex="0">
+<one:T>
+<![CDATA[ Log Name (Important) ]]>
+</one:T>
+</one:OE>
+</one:Title>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T10:44:44.000Z">
+<one:Position x="36.0" y="86.4000015258789" z="0"/>
+<one:Size width="175.1484222412109" height="73.24212646484374"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Analysis Parameters: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T/>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T>
+<![CDATA[ analysis parameters go here (e.g. dipoleTrapHoldTime vs N) ]]>
+</one:T>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T12:56:07.000Z">
+<one:Position x="36.0" y="194.4000091552734" z="1"/>
+<one:Size width="167.9059753417969" height="52.49023818969727"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Purpose of this Log: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T12:56:07.000Z" lastModifiedTime="2016-03-20T12:56:07.000Z" alignment="left" quickStyleIndex="1">
+<one:T/>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T>
+<![CDATA[ This log aims to do things. ]]>
+</one:T>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T10:44:44.000Z">
+<one:Position x="36.0" y="292.58984375" z="2"/>
+<one:Size width="271.4164123535156" height="59.81441116333008"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Results/conclusions: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T/>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T>
+<![CDATA[ From this log we can see that the experiment works ]]>
+</one:T>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T12:57:41.000Z">
+<one:Position x="36.0" y="418.58984375" z="6"/>
+<one:Size width="360.0" height="137.9036102294922"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T12:57:41.000Z" lastModifiedTime="2016-03-20T12:57:41.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Plots: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T/>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T10:44:44.000Z">
+<one:Position x="36.0" y="580.5899047851562" z="3"/>
+<one:Size width="185.1170806884766" height="46.38668060302734"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Additional Comments: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T/>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T>
+<![CDATA[ Here are some comments ]]>
+</one:T>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T10:44:44.000Z">
+<one:Position x="36.0" y="670.5899047851562" z="4"/>
+<one:Size width="266.8130798339844" height="86.66983795166016"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Data files and sources: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T/>
+</one:OE>
+<one:OE author="humphry" authorInitials="H" creationTime="2016-03-18T13:18:42.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T>
+<![CDATA[
+Raw CSV data: <a href="file:///G:/Experiment%20Humphry/Data/eagleLogs/2016%2003%2018%20-%20%20Rabi%20Oscillations/2016%2003%2018%20-%20%20Rabi%20Oscillations.csv">2016 03 18 - Rabi Oscillations</a>
+]]>
+</one:T>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+<one:Outline author="tharrison" authorInitials="T" lastModifiedBy="tharrison" lastModifiedByInitials="T" lastModifiedTime="2016-03-20T10:44:44.000Z">
+<one:Position x="36.0" y="796.5899047851562" z="5"/>
+<one:Size width="396.7500305175781" height="73.24214172363281"/>
+<one:OEChildren>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="1">
+<one:T>
+<![CDATA[ Preamble: ]]>
+</one:T>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T/>
+</one:OE>
+<one:OE creationTime="2016-03-20T10:44:44.000Z" lastModifiedTime="2016-03-20T10:44:44.000Z" alignment="left" quickStyleIndex="2">
+<one:T>
+<![CDATA[
+This is an automatically generated Eagle Log report for one note. Pages like this can and are created directly from Experiment Eagle. Remember to always write notes about your log and data and include pictures. You can add text and comments to this page in OneNote or directly from Eagle.
+]]>
+</one:T>
+</one:OE>
+</one:OEChildren>
+</one:Outline>
+</one:Page>

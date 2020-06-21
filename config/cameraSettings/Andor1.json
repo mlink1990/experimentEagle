@@ -1,0 +1,35 @@
+{
+    "pixelSize": 16.0,
+    "magnification": 6.55,
+    "searchString": "ANDOR0",
+    "watchFolder": "T:/TOFAtomNumber/eagleWatchedFolder",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 2
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": 0,
+        "max": 5
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": 0,
+        "max": 5
+    },
+
+    "scale": 10089.33,
+    "offset": 5000.0,
+    "tofVariable": "ImagingTimeTOFLi",
+
+    "imageMode": "process raw image",
+    "processor": "standard ANDOR 1",
+    "processorOptions": {
+        "Binning?": false,
+        "Bin size": 1,
+        "Dark picture": "G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor1/2020 03 30 - dark Andor1 - interval 0_017 temperature -80_0 .npy",
+		"rotationAngle":46
+    }
+}

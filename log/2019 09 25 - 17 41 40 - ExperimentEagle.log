@@ -1,0 +1,1238 @@
+2019-09-25 17:41:40,927 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2019-09-25 17:41:55,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-25 17:41:55,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2019-09-25 17:41:55,108 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2019-09-25 17:42:01,911 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:42:07,428 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to Andor0
+2019-09-25 17:42:07,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 5, u'min': -0.2}
+2019-09-25 17:42:07,476 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=139] image file not found. filling with zeros
+2019-09-25 17:42:07,476 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:42:11,992 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for Andor0
+2019-09-25 17:42:14,019 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:42:14,019 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:42:14,019 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2019-09-25 17:42:14,378 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:42:14,394 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:42:14,394 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:42:16,421 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.127061314713715 using region of shape: 50, 50
+2019-09-25 17:42:16,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:42:16,500 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2019-09-25 17:42:16,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to False
+2019-09-25 17:42:16,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-25 17:42:16,500 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=172] continuing after pixels changed = True event
+2019-09-25 17:42:16,516 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:42:16,516 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:42:16,530 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:42:28,107 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:42:28,107 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:42:28,309 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.45647907257
+2019-09-25 17:42:28,482 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:42:28,482 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:42:28,482 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:42:30,322 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.279818586654149 using region of shape: 50, 50
+2019-09-25 17:42:30,401 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:42:30,401 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:42:30,401 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:42:30,415 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:42:45,361 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-09-25 17:42:49,900 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-09-25 17:42:55,671 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2019-09-25 17:42:55,671 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2019-09-25 17:42:55,671 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F12', alt_down=False, control_down=False, shift_down=False, handled=False)
+2019-09-25 17:42:55,671 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F12', alt_down=False, control_down=False, shift_down=False, handled=False)
+2019-09-25 17:42:55,671 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=45] key press action found for : <enable.base_tool.KeySpec object at 0x0A851F50>
+2019-09-25 17:42:55,671 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_zoom_to_fit_region:line=1133] type of range Object = <class 'chaco.data_range_2d.DataRange2D'>
+2019-09-25 17:42:55,687 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-25 17:42:55,687 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F12', alt_down=False, control_down=False, shift_down=False, handled=True)
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=False)
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=45] key press action found for : <enable.base_tool.KeySpec object at 0x0A851F10>
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=True)
+2019-09-25 17:42:55,750 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='F11', alt_down=False, control_down=False, shift_down=False, handled=True)
+2019-09-25 17:43:12,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:43:12,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:43:12,548 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.33332514763
+2019-09-25 17:43:12,719 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:43:12,719 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:43:12,719 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:43:14,575 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.910342806686482 using region of shape: 50, 50
+2019-09-25 17:43:14,654 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:43:14,654 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:43:14,668 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:43:14,668 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:43:46,589 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:43:46,589 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:43:46,762 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.34864473343
+2019-09-25 17:43:46,917 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:43:46,917 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:43:46,917 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:43:48,835 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1403873713830754 using region of shape: 50, 50
+2019-09-25 17:43:48,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:43:48,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:43:48,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:43:48,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:44:30,864 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:44:30,864 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:44:31,036 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.41234707832
+2019-09-25 17:44:31,191 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:44:31,191 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:44:31,191 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:44:33,000 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.137842351800033 using region of shape: 50, 50
+2019-09-25 17:44:33,078 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:44:33,078 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:44:33,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:44:33,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:45:15,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:45:15,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:45:15,316 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.30841398239
+2019-09-25 17:45:15,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:45:15,473 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:45:15,473 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:45:17,313 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0378696008318062 using region of shape: 50, 50
+2019-09-25 17:45:17,375 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:45:17,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:45:17,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:45:17,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:45:59,408 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:45:59,408 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:45:59,579 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.54456090927
+2019-09-25 17:45:59,736 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:45:59,736 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:45:59,736 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:46:01,717 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1868200126510047 using region of shape: 50, 50
+2019-09-25 17:46:01,796 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:46:01,796 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:46:01,796 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:46:01,796 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:46:33,632 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:46:33,632 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:46:33,805 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.51285147667
+2019-09-25 17:46:33,976 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:46:33,976 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:46:33,976 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:46:35,772 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.101758795806281 using region of shape: 50, 50
+2019-09-25 17:46:35,849 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:46:35,849 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:46:35,849 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:46:35,849 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:47:19,911 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:47:19,911 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:47:20,068 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.557117939
+2019-09-25 17:47:20,240 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:47:20,240 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:47:20,240 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:47:22,017 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.980346341602152 using region of shape: 50, 50
+2019-09-25 17:47:22,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:47:22,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:47:22,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:47:22,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:48:04,184 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:48:04,184 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:48:04,357 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.53558015823
+2019-09-25 17:48:04,513 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:48:04,513 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:48:04,513 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:48:06,290 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9049466499590635 using region of shape: 50, 50
+2019-09-25 17:48:06,352 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:48:06,368 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:48:06,368 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:48:06,368 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:48:38,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:48:38,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:48:38,553 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.66484379768
+2019-09-25 17:48:38,710 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:48:38,710 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:48:38,710 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:48:40,582 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0641427696048646 using region of shape: 50, 50
+2019-09-25 17:48:40,644 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:48:40,660 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:48:40,660 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:48:40,660 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:49:22,671 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:49:22,671 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:49:22,842 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.67388391495
+2019-09-25 17:49:22,997 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:49:22,997 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:49:22,997 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:49:24,776 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0345616722280653 using region of shape: 50, 50
+2019-09-25 17:49:24,838 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:49:24,838 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:49:24,855 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:49:24,855 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:50:06,946 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:50:06,946 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:50:07,118 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.82781243324
+2019-09-25 17:50:07,276 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:50:07,276 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:50:07,276 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:50:09,053 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.077866498477342 using region of shape: 50, 50
+2019-09-25 17:50:09,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:50:09,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:50:09,131 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:50:09,131 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:50:41,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:50:41,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:50:41,302 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.8103222847
+2019-09-25 17:50:41,489 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:50:41,489 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:50:41,489 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:51:31,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:51:31,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:51:32,115 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.14122223854
+2019-09-25 17:51:32,270 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:51:32,270 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:51:32,270 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:51:34,049 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0055609681846445 using region of shape: 50, 50
+2019-09-25 17:51:34,127 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:51:34,127 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:51:34,142 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:51:34,142 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:52:05,668 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:52:05,668 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:52:05,825 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.06352686882
+2019-09-25 17:52:05,980 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:52:05,980 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:52:05,980 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:52:07,835 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.162449619042037 using region of shape: 50, 50
+2019-09-25 17:52:07,897 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:52:07,913 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:52:07,913 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:52:07,913 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:52:49,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:52:49,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:52:50,096 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.04214572906
+2019-09-25 17:52:50,267 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:52:50,267 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:52:50,267 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:52:52,171 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1749782582311536 using region of shape: 50, 50
+2019-09-25 17:52:52,233 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:52:52,233 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:52:52,249 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:52:52,249 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:53:34,226 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:53:34,226 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:53:34,398 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.02239990234
+2019-09-25 17:53:34,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:53:34,555 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:53:34,555 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:53:36,348 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0909446017093076 using region of shape: 50, 50
+2019-09-25 17:53:36,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:53:36,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:53:36,441 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:53:36,441 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:54:18,493 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:54:18,493 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:54:18,650 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.06209278107
+2019-09-25 17:54:18,821 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:54:18,821 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:54:18,821 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:54:20,615 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.139500180357894 using region of shape: 50, 50
+2019-09-25 17:54:20,677 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:54:20,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:54:20,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:54:20,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:54:52,706 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:54:52,706 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:54:52,877 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.12244296074
+2019-09-25 17:54:53,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:54:53,032 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:54:53,032 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:54:54,904 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9187697570435063 using region of shape: 50, 50
+2019-09-25 17:54:54,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:54:54,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:54:54,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:54:54,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:55:36,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:55:36,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:55:37,138 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.14916396141
+2019-09-25 17:55:37,295 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:55:37,295 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:55:37,295 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:55:39,073 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.055424383281303 using region of shape: 50, 50
+2019-09-25 17:55:39,151 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:55:39,151 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:55:39,151 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:55:39,151 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:56:21,244 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:56:21,244 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:56:21,401 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.15975093842
+2019-09-25 17:56:21,556 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:56:21,556 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:56:21,556 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:56:23,457 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.191721894453683 using region of shape: 50, 50
+2019-09-25 17:56:23,532 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:56:23,538 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:56:23,540 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:56:23,542 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:57:05,530 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:57:05,530 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:57:05,701 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.33335208893
+2019-09-25 17:57:05,858 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:57:05,858 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:57:05,858 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:57:07,709 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0949940392387902 using region of shape: 50, 50
+2019-09-25 17:57:07,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:57:07,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:57:07,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:57:07,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:57:39,742 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:57:39,742 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:57:39,898 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.30698943138
+2019-09-25 17:57:40,069 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:57:40,069 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:57:40,069 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:57:41,864 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0405138261993256 using region of shape: 50, 50
+2019-09-25 17:57:41,926 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:57:41,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:57:41,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:57:41,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:58:24,006 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:58:24,007 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:58:24,173 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.3446366787
+2019-09-25 17:58:24,332 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:58:24,332 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:58:24,334 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:58:26,144 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0889882327825924 using region of shape: 50, 50
+2019-09-25 17:58:26,217 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:58:26,220 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:58:26,223 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:58:26,224 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:59:08,282 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:59:08,282 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:59:08,460 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.40088367462
+2019-09-25 17:59:08,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:59:08,618 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:59:08,619 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:59:10,433 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.223619497527059 using region of shape: 50, 50
+2019-09-25 17:59:10,506 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:59:10,509 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:59:10,513 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:59:10,513 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:59:42,493 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 17:59:42,493 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 17:59:42,657 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.38844966888
+2019-09-25 17:59:42,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 17:59:42,815 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 17:59:42,816 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 17:59:44,726 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.926882770264829 using region of shape: 50, 50
+2019-09-25 17:59:44,799 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 17:59:44,803 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 17:59:44,806 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 17:59:44,808 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:00:26,763 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:00:26,763 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:00:26,930 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.3182258606
+2019-09-25 18:00:27,088 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:00:27,089 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:00:27,091 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:00:28,887 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1049463516547675 using region of shape: 50, 50
+2019-09-25 18:00:28,963 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:00:28,967 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:00:28,970 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:00:28,970 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:01:11,039 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:01:11,039 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:01:11,710 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.47889494896
+2019-09-25 18:01:11,869 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:01:11,871 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:01:11,871 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:01:13,664 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9674344931467755 using region of shape: 50, 50
+2019-09-25 18:01:13,736 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:01:13,740 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:01:13,743 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:01:13,744 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:01:55,311 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:01:55,312 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:01:55,477 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.50724077225
+2019-09-25 18:01:55,630 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:01:55,631 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:01:55,631 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:01:57,509 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0981242390994805 using region of shape: 50, 50
+2019-09-25 18:01:57,584 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:01:57,588 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:01:57,591 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:01:57,592 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:02:29,523 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:02:29,525 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:02:29,687 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.6633682251
+2019-09-25 18:02:29,842 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:02:29,842 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:02:29,844 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:02:31,627 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0268546174714333 using region of shape: 50, 50
+2019-09-25 18:02:31,697 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:02:31,701 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:02:31,704 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:02:31,706 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:03:13,795 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:03:13,796 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:03:13,960 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.59053254128
+2019-09-25 18:03:14,115 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:03:14,115 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:03:14,117 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:03:16,003 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.022238124683962 using region of shape: 50, 50
+2019-09-25 18:03:16,078 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:03:16,082 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:03:16,085 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:03:16,086 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:03:58,069 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:03:58,071 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:03:58,234 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.67974162102
+2019-09-25 18:03:58,387 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:03:58,388 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:03:58,388 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:04:00,154 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1000414959544194 using region of shape: 50, 50
+2019-09-25 18:04:00,227 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:04:00,232 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:04:00,234 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:04:00,236 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:04:42,342 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:04:42,342 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:04:42,506 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.69250440598
+2019-09-25 18:04:42,661 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:04:42,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:04:42,663 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:04:44,457 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.068166592250931 using region of shape: 50, 50
+2019-09-25 18:04:44,529 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:04:44,535 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:04:44,538 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:04:44,539 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:05:16,551 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:05:16,552 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:05:16,714 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.74149250984
+2019-09-25 18:05:16,871 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:05:16,871 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:05:16,872 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:05:18,736 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1031422485310167 using region of shape: 50, 50
+2019-09-25 18:05:18,809 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:05:18,812 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:05:18,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:05:18,816 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:06:00,826 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:06:00,826 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:06:00,992 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.69211030006
+2019-09-25 18:06:01,147 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:06:01,148 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:06:01,148 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:06:02,989 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.132594642525765 using region of shape: 50, 50
+2019-09-25 18:06:03,061 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:06:03,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:06:03,069 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:06:03,069 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:06:45,098 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:06:45,098 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:06:45,260 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.86270952225
+2019-09-25 18:06:45,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:06:45,415 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:06:45,417 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:06:47,299 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9998846996906574 using region of shape: 50, 50
+2019-09-25 18:06:47,372 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:06:47,375 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:06:47,380 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:06:47,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:07:29,371 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:07:29,372 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:07:29,535 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.94189667702
+2019-09-25 18:07:29,690 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:07:29,690 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:07:29,691 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:07:31,562 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0501338719048396 using region of shape: 50, 50
+2019-09-25 18:07:31,634 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:07:31,638 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:07:31,641 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:07:31,642 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:08:03,582 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:08:03,582 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:08:03,749 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.94272184372
+2019-09-25 18:08:03,903 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:08:03,904 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:08:03,904 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:08:05,823 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1370650523358847 using region of shape: 50, 50
+2019-09-25 18:08:05,897 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:08:05,901 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:08:05,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:08:05,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:08:47,854 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:08:47,855 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:08:48,020 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.10238194466
+2019-09-25 18:08:48,174 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:08:48,174 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:08:48,176 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:08:49,986 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0658412453910167 using region of shape: 50, 50
+2019-09-25 18:08:50,058 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:08:50,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:08:50,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:08:50,065 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:09:32,128 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:09:32,128 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:09:32,296 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.98871564865
+2019-09-25 18:09:32,453 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:09:32,453 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:09:32,454 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:09:34,298 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.119101201059651 using region of shape: 50, 50
+2019-09-25 18:09:34,368 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:09:34,372 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:09:34,375 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:09:34,377 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:10:06,338 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:10:06,339 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:10:06,505 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.03256011009
+2019-09-25 18:10:06,638 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:10:06,638 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:10:06,640 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:10:56,650 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:10:56,651 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:10:56,819 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.44219088554
+2019-09-25 18:10:56,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:10:56,973 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:10:56,974 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:10:58,885 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.128565242986454 using region of shape: 50, 50
+2019-09-25 18:10:58,957 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:10:58,961 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:10:58,964 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:10:58,964 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:11:30,861 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:11:30,861 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:11:31,551 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.18587470055
+2019-09-25 18:11:31,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:11:31,709 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:11:31,710 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:11:33,526 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.057217779362972 using region of shape: 50, 50
+2019-09-25 18:11:33,604 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:11:33,604 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:11:33,604 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:11:33,604 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:12:15,134 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:12:15,134 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:12:15,301 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.34923148155
+2019-09-25 18:12:15,456 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:12:15,457 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:12:15,457 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:12:17,243 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.144002152970711 using region of shape: 50, 50
+2019-09-25 18:12:17,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:12:17,319 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:12:17,322 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:12:17,323 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:12:59,407 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:12:59,407 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:12:59,572 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.21148443222
+2019-09-25 18:12:59,727 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:12:59,727 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:12:59,729 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:13:01,530 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0859956981055583 using region of shape: 50, 50
+2019-09-25 18:13:01,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:13:01,607 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:13:01,609 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:13:01,611 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:13:43,680 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:13:43,680 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:13:43,846 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.3512134552
+2019-09-25 18:13:43,999 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:13:44,000 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:13:44,000 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:13:45,841 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.2050748732481296 using region of shape: 50, 50
+2019-09-25 18:13:45,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:13:45,920 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:13:45,923 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:13:45,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:14:17,892 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:14:17,894 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:14:18,062 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.40896487236
+2019-09-25 18:14:18,213 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:14:18,213 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:14:18,214 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:14:20,127 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.068177540010762 using region of shape: 50, 50
+2019-09-25 18:14:20,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:14:20,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:14:20,204 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:14:20,206 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:15:02,163 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:15:02,164 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:15:02,328 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.29416656494
+2019-09-25 18:15:02,482 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:15:02,483 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:15:02,483 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:15:04,312 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.081976793367906 using region of shape: 50, 50
+2019-09-25 18:15:04,387 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:15:04,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:15:04,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:15:04,395 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:15:46,438 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:15:46,440 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:15:46,605 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.45717930794
+2019-09-25 18:15:46,759 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:15:46,759 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:15:46,760 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:15:48,546 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1738071256365634 using region of shape: 50, 50
+2019-09-25 18:15:48,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:15:48,622 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:15:48,625 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:15:48,627 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:16:30,711 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:16:30,713 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:16:30,885 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.38875055313
+2019-09-25 18:16:31,040 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:16:31,040 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:16:31,042 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:16:32,842 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.051640387594004 using region of shape: 50, 50
+2019-09-25 18:16:32,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:16:32,918 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:16:32,921 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:16:32,923 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:17:04,923 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:17:04,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:17:05,088 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.57766842842
+2019-09-25 18:17:05,240 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:17:05,242 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:17:05,243 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:17:07,063 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9380061202052623 using region of shape: 50, 50
+2019-09-25 18:17:07,134 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:17:07,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:17:07,142 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:17:07,142 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:17:49,194 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:17:49,194 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:17:49,359 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.60271430016
+2019-09-25 18:17:49,513 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:17:49,515 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:17:49,516 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:17:51,454 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9888925531493318 using region of shape: 50, 50
+2019-09-25 18:17:51,526 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:17:51,530 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:17:51,533 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:17:51,535 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:18:33,466 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:18:33,467 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:18:33,631 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.67201495171
+2019-09-25 18:18:33,782 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:18:33,783 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:18:33,783 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:18:35,611 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.087612680966604 using region of shape: 50, 50
+2019-09-25 18:18:35,684 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:18:35,687 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:18:35,690 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:18:35,691 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:19:07,680 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:19:07,680 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:19:07,846 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.66600680351
+2019-09-25 18:19:08,019 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:19:08,020 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:19:08,022 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:19:09,815 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9514824124736785 using region of shape: 50, 50
+2019-09-25 18:19:09,888 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:19:09,891 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:19:09,895 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:19:09,895 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:19:51,951 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:19:51,953 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:19:52,119 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.68510961533
+2019-09-25 18:19:52,273 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:19:52,275 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:19:52,276 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:19:54,096 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9407410859761693 using region of shape: 50, 50
+2019-09-25 18:19:54,167 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:19:54,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:19:54,176 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:19:54,176 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:20:36,226 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:20:36,226 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:20:36,394 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.81318998337
+2019-09-25 18:20:36,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:20:36,548 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:20:36,548 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:20:38,329 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.031029048481101 using region of shape: 50, 50
+2019-09-25 18:20:38,401 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:20:38,404 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:20:38,407 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:20:38,408 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:21:20,497 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:21:20,499 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:21:20,663 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.75275444984
+2019-09-25 18:21:20,818 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:21:20,819 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:21:20,819 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:21:22,788 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1741560837651552 using region of shape: 50, 50
+2019-09-25 18:21:22,861 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:21:22,865 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:21:22,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:21:22,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:21:54,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:21:54,709 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:21:55,384 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.86543440819
+2019-09-25 18:21:55,538 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:21:55,539 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:21:55,539 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:21:57,322 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.8848127498246474 using region of shape: 50, 50
+2019-09-25 18:21:57,392 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:21:57,397 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:21:57,400 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:21:57,401 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:22:38,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:22:38,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:22:39,151 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.91425657272
+2019-09-25 18:22:39,303 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:22:39,305 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:22:39,305 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:22:41,118 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0026463654923345 using region of shape: 50, 50
+2019-09-25 18:22:41,190 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:22:41,194 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:22:41,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:22:41,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:23:23,256 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:23:23,257 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:23:23,424 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.95149636269
+2019-09-25 18:23:23,581 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:23:23,582 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:23:23,582 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:23:25,470 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.027894731063877 using region of shape: 50, 50
+2019-09-25 18:23:25,542 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:23:25,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:23:25,549 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:23:25,549 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:24:07,526 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:24:07,528 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:24:07,691 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.98998188972
+2019-09-25 18:24:07,844 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:24:07,845 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:24:07,845 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:24:09,644 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0891566702674367 using region of shape: 50, 50
+2019-09-25 18:24:09,716 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:24:09,720 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:24:09,723 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:24:09,723 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:24:41,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:24:41,739 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:24:41,901 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.11291122437
+2019-09-25 18:24:42,053 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:24:42,055 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:24:42,055 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:24:43,934 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1558776855242 using region of shape: 50, 50
+2019-09-25 18:24:44,006 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:24:44,009 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:24:44,013 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:24:44,013 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:25:26,013 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:25:26,015 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:25:26,180 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.20714354515
+2019-09-25 18:25:26,334 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:25:26,335 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:25:26,335 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:25:28,134 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.081538949157309 using region of shape: 50, 50
+2019-09-25 18:25:28,207 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:25:28,210 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:25:28,213 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:25:28,214 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:26:10,285 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:26:10,285 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:26:10,451 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.01200389862
+2019-09-25 18:26:10,605 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:26:10,605 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:26:10,607 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:26:12,407 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.061529810269353 using region of shape: 50, 50
+2019-09-25 18:26:12,476 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:26:12,480 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:26:12,483 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:26:12,484 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:26:54,559 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:26:54,559 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:26:54,723 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.2290520668
+2019-09-25 18:26:54,874 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:26:54,875 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:26:54,875 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:26:56,673 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.8965917491451298 using region of shape: 50, 50
+2019-09-25 18:26:56,744 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:26:56,749 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:26:56,752 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:26:56,753 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:27:28,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:27:28,770 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:27:28,934 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.2278983593
+2019-09-25 18:27:29,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:27:29,092 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:27:29,092 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:27:30,898 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.2706262861418494 using region of shape: 50, 50
+2019-09-25 18:27:30,970 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:27:30,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:27:30,976 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:27:30,976 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:28:13,042 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:28:13,042 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:28:13,206 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.22083735466
+2019-09-25 18:28:13,361 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:28:13,362 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:28:13,364 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:28:15,331 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1512133688430013 using region of shape: 50, 50
+2019-09-25 18:28:15,403 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:28:15,407 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:28:15,410 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:28:15,411 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:28:57,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:28:57,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:28:57,494 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.25562763214
+2019-09-25 18:28:57,650 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:28:57,651 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:28:57,651 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:28:59,490 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.127474719721852 using region of shape: 50, 50
+2019-09-25 18:28:59,562 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:28:59,565 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:28:59,569 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:28:59,571 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:29:41,588 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:29:41,588 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:29:41,786 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.30644869804
+2019-09-25 18:29:41,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:29:41,940 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:29:41,941 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:29:43,740 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.117171901438129 using region of shape: 50, 50
+2019-09-25 18:29:43,812 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:29:43,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:29:43,819 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:29:43,819 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:30:15,799 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:30:15,799 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:30:15,979 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.42199325562
+2019-09-25 18:30:16,135 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:30:16,137 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:30:16,138 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:30:18,010 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0049312252966693 using region of shape: 50, 50
+2019-09-25 18:30:18,082 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:30:18,086 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:30:18,089 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:30:18,091 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:31:00,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:31:00,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:31:00,239 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.41695475578
+2019-09-25 18:31:00,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:31:00,394 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:31:00,395 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:31:02,180 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.2261296887752664 using region of shape: 50, 50
+2019-09-25 18:31:02,252 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:31:02,256 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:31:02,259 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:31:02,259 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:31:44,345 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:31:44,346 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:31:45,051 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.53691983223
+2019-09-25 18:31:45,203 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:31:45,204 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:31:45,206 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:31:47,141 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0609474110375436 using region of shape: 50, 50
+2019-09-25 18:31:47,214 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:31:47,219 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:31:47,221 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:31:47,223 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:32:18,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:32:18,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:32:18,720 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.60990595818
+2019-09-25 18:32:18,874 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:32:18,875 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:32:18,875 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:32:20,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.183546063481222 using region of shape: 50, 50
+2019-09-25 18:32:20,734 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:32:20,739 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:32:20,742 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:32:20,743 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:33:02,829 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:33:02,831 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:33:02,994 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.56743526459
+2019-09-25 18:33:03,150 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:33:03,151 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:33:03,151 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:33:04,960 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.2791261912734457 using region of shape: 50, 50
+2019-09-25 18:33:05,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:33:05,036 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:33:05,039 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:33:05,039 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:33:47,101 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:33:47,102 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:33:47,282 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.54921078682
+2019-09-25 18:33:47,434 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:33:47,436 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:33:47,437 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:33:49,334 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0327905911741393 using region of shape: 50, 50
+2019-09-25 18:33:49,411 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:33:49,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:33:49,417 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:33:49,418 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:34:31,378 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:34:31,378 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:34:31,546 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.66477012634
+2019-09-25 18:34:31,700 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:34:31,700 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:34:31,701 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:34:33,516 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.829760969091182 using region of shape: 50, 50
+2019-09-25 18:34:33,588 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:34:33,592 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:34:33,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:34:33,596 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:35:05,588 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:35:05,589 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:35:05,763 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.72180056572
+2019-09-25 18:35:05,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:35:05,924 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:35:05,926 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:35:07,845 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0529590763481407 using region of shape: 50, 50
+2019-09-25 18:35:07,917 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:35:07,921 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:35:07,926 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:35:07,927 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:35:49,858 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:35:49,859 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:35:50,023 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.73335456848
+2019-09-25 18:35:50,177 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:35:50,178 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:35:50,180 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:35:51,970 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.286376865514305 using region of shape: 50, 50
+2019-09-25 18:35:52,045 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:35:52,049 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:35:52,052 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:35:52,052 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:36:34,134 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:36:34,134 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:36:34,299 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.87077593803
+2019-09-25 18:36:34,454 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:36:34,456 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:36:34,457 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:36:36,247 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1241483688142586 using region of shape: 50, 50
+2019-09-25 18:36:36,322 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:36:36,325 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:36:36,328 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:36:36,329 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:37:18,405 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:37:18,407 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:37:18,569 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.95031690598
+2019-09-25 18:37:18,726 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:37:18,726 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:37:18,727 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:37:20,512 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1019524813907284 using region of shape: 50, 50
+2019-09-25 18:37:20,586 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:37:20,591 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:37:20,594 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:37:20,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:37:52,615 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:37:52,615 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:37:52,778 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.92358398438
+2019-09-25 18:37:52,931 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:37:52,933 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:37:52,933 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:37:54,734 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.048643709210409 using region of shape: 50, 50
+2019-09-25 18:37:54,808 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:37:54,812 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:37:54,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:37:54,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:38:36,891 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:38:36,891 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:38:37,055 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.98309159279
+2019-09-25 18:38:37,210 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:38:37,217 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:38:37,217 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:38:39,332 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1663423449965644 using region of shape: 50, 50
+2019-09-25 18:38:39,405 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:38:39,410 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:38:39,413 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:38:39,413 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:39:21,164 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:39:21,165 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:39:21,332 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.95853352547
+2019-09-25 18:39:21,486 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:39:21,486 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:39:21,486 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:39:23,279 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.039728236396289 using region of shape: 50, 50
+2019-09-25 18:39:23,351 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:39:23,355 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:39:23,358 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:39:23,359 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:40:05,437 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:40:05,437 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:40:05,602 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.15733885765
+2019-09-25 18:40:05,757 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:40:05,759 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:40:05,759 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:40:07,559 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.044036607360984 using region of shape: 50, 50
+2019-09-25 18:40:07,634 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:40:07,638 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:40:07,642 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:40:07,642 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:40:39,647 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:40:39,647 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:40:39,813 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.00903534889
+2019-09-25 18:40:39,966 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:40:39,967 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:40:39,967 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:40:41,766 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.012087997915129 using region of shape: 50, 50
+2019-09-25 18:40:41,839 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:40:41,844 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:40:41,846 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:40:41,848 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:41:23,920 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:41:23,920 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:41:24,085 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.99730873108
+2019-09-25 18:41:24,240 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:41:24,240 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:41:24,242 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:41:26,062 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.179467341929736 using region of shape: 50, 50
+2019-09-25 18:41:26,141 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:41:26,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:41:26,148 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:41:26,150 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:42:08,194 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:42:08,194 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:42:08,888 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.08328866959
+2019-09-25 18:42:09,043 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:42:09,045 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:42:09,046 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:42:10,917 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.982749084000471 using region of shape: 50, 50
+2019-09-25 18:42:10,987 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:42:10,992 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:42:10,994 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:42:10,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:42:52,467 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:42:52,469 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:42:52,634 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.12804269791
+2019-09-25 18:42:52,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:42:52,788 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:42:52,789 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:42:54,607 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1480928690662826 using region of shape: 50, 50
+2019-09-25 18:42:54,680 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:42:54,684 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:42:54,687 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:42:54,688 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:43:26,678 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:43:26,680 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:43:26,842 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.2150657177
+2019-09-25 18:43:27,016 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:43:27,016 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:43:27,016 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:43:28,821 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1659967635827706 using region of shape: 50, 50
+2019-09-25 18:43:28,892 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:43:28,897 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:43:28,900 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:43:28,901 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:44:10,950 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:44:10,951 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:44:11,117 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.17408084869
+2019-09-25 18:44:11,270 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:44:11,270 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:44:11,272 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:44:13,082 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0520065646331576 using region of shape: 50, 50
+2019-09-25 18:44:13,154 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:44:13,157 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:44:13,161 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:44:13,161 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:44:55,223 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:44:55,223 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:44:55,390 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.25953626633
+2019-09-25 18:44:55,542 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:44:55,542 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:44:55,542 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:44:57,365 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.001293103848538 using region of shape: 50, 50
+2019-09-25 18:44:57,437 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:44:57,440 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:44:57,444 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:44:57,444 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:45:29,434 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:45:29,434 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:45:29,599 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.21987199783
+2019-09-25 18:45:29,753 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:45:29,753 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:45:29,755 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:45:31,638 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.158199590227475 using region of shape: 50, 50
+2019-09-25 18:45:31,710 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:45:31,713 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:45:31,717 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:45:31,717 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:46:13,710 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:46:13,710 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:46:13,874 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.36843705177
+2019-09-25 18:46:14,029 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:46:14,029 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:46:14,029 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:46:15,858 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.136457902224287 using region of shape: 50, 50
+2019-09-25 18:46:15,930 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:46:15,934 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:46:15,937 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:46:15,938 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:46:57,980 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:46:57,982 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:46:58,148 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.32438564301
+2019-09-25 18:46:58,302 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:46:58,303 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:46:58,305 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:47:00,072 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.05850677630379 using region of shape: 50, 50
+2019-09-25 18:47:00,145 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:47:00,150 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:47:00,153 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:47:00,154 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:47:42,253 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:47:42,253 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:47:42,417 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.42857170105
+2019-09-25 18:47:42,584 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:47:42,585 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:47:42,585 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:47:44,374 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.085051845614491 using region of shape: 50, 50
+2019-09-25 18:47:44,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:47:44,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:47:44,453 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:47:44,454 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:48:16,467 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:48:16,467 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:48:16,632 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.46354579926
+2019-09-25 18:48:16,786 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:48:16,786 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:48:16,788 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:48:18,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1341613647026185 using region of shape: 50, 50
+2019-09-25 18:48:18,733 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:48:18,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:48:18,742 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:48:18,742 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:49:00,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:49:00,739 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:49:00,904 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.44461226463
+2019-09-25 18:49:01,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:49:01,062 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:49:01,063 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:49:02,954 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9734992079067188 using region of shape: 50, 50
+2019-09-25 18:49:03,029 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:49:03,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:49:03,036 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:49:03,036 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:49:45,015 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:49:45,016 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:49:45,181 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.49620175362
+2019-09-25 18:49:45,335 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:49:45,335 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:49:45,336 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:49:47,137 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.217639805608386 using region of shape: 50, 50
+2019-09-25 18:49:47,210 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:49:47,214 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:49:47,217 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:49:47,219 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:50:29,286 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:50:29,286 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:50:29,453 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.50865864754
+2019-09-25 18:50:29,609 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:50:29,611 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:50:29,611 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:50:31,394 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.049098865588299 using region of shape: 50, 50
+2019-09-25 18:50:31,469 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:50:31,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:50:31,476 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:50:31,476 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:51:03,494 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:51:03,494 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:51:03,661 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.65815806389
+2019-09-25 18:51:03,816 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:51:03,818 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:51:03,819 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:51:05,701 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0955894067993954 using region of shape: 50, 50
+2019-09-25 18:51:05,776 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:51:05,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:51:05,782 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:51:05,783 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:51:47,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:51:47,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:51:48,453 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.71532058716
+2019-09-25 18:51:48,608 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:51:48,609 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:51:48,611 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:51:50,414 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.660164231637553 using region of shape: 50, 50
+2019-09-25 18:51:50,487 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:51:50,492 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:51:50,494 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:51:50,496 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:52:32,042 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:52:32,043 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:52:32,209 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.64640879631
+2019-09-25 18:52:32,362 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:52:32,364 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:52:32,365 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:52:34,312 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.7290129139157364 using region of shape: 50, 50
+2019-09-25 18:52:34,387 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:52:34,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:52:34,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:52:34,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:53:16,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:53:16,316 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:53:16,492 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.77164292336
+2019-09-25 18:53:16,885 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:53:16,888 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:53:16,888 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:53:18,829 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 3.019782382923645 using region of shape: 50, 50
+2019-09-25 18:53:18,907 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:53:18,911 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:53:18,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:53:18,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:53:50,526 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:53:50,526 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:53:50,691 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.76576948166
+2019-09-25 18:53:50,848 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:53:50,848 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:53:50,848 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:53:52,734 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 3.4679209429632305 using region of shape: 50, 50
+2019-09-25 18:53:52,806 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:53:52,811 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:53:52,813 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:53:52,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:54:34,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:54:34,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:54:34,969 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.81913113594
+2019-09-25 18:54:35,127 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:54:35,128 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:54:35,128 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:54:37,015 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1016267056867806 using region of shape: 50, 50
+2019-09-25 18:54:37,089 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:54:37,094 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:54:37,098 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:54:37,098 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:55:19,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:55:19,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:55:19,240 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.8252928257
+2019-09-25 18:55:19,395 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:55:19,397 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:55:19,398 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:55:21,311 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.002749590937552 using region of shape: 50, 50
+2019-09-25 18:55:21,384 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:55:21,390 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:55:21,392 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:55:21,394 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:55:53,285 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:55:53,286 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:55:53,461 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.87098765373
+2019-09-25 18:55:53,612 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:55:53,614 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:55:53,615 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:56:43,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:56:43,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:56:43,760 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 3.43179416656
+2019-09-25 18:56:43,917 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:56:43,918 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:56:43,918 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:56:45,838 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.1020635128671428 using region of shape: 50, 50
+2019-09-25 18:56:45,910 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:56:45,914 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:56:45,917 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:56:45,917 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:57:17,803 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:57:17,805 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:57:17,967 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.04955744743
+2019-09-25 18:57:18,122 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:57:18,124 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:57:18,125 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:57:19,969 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.115264169376094 using region of shape: 50, 50
+2019-09-25 18:57:20,040 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:57:20,046 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:57:20,049 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:57:20,049 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:58:02,076 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 18:58:02,078 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 18:58:02,242 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 4.07323002815
+2019-09-25 18:58:02,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D10F7B0>
+2019-09-25 18:58:02,415 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 18:58:02,415 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 18:58:04,240 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0130035606347856 using region of shape: 50, 50
+2019-09-25 18:58:04,312 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 18:58:04,316 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 18:58:04,319 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 18:58:04,321 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot

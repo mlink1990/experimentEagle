@@ -1,0 +1,38 @@
+{
+    "pixelSize": 16.0,
+    "magnification": 4.25,
+    "searchString": "ANDOR0",
+    "watchFolder": "T:/TOFAtomNumber/eagleWatchedFolder",
+    "watchFolderURSA": "G:/Experiment Humphry/Data/TOF Atom Number/eagleWatchedFolder",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 2
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 5
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 5
+    },
+
+    "scale": 10089.33,
+    "offset": 5000.0,
+    "tofVariable": "ImagingTimeTOFLi",
+
+    "imageMode": "process raw image",
+    "processor": "standard ANDOR 0",
+    "processorOptions": {
+        "rescale?":true,
+        "rescaleInitialX":90,
+        "rescaleInitialY":170,
+        "rescaleWidth":20,
+        "rescaleHeight":120,
+		"rotationAngle":-47.8
+    }
+}

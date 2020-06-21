@@ -1,0 +1,28 @@
+{
+    "pixelSize": 9.0,
+    "magnification": 5.6,
+    "searchString": "ALTA[01]atoms",
+    "watchFolder": "T:/TOFAtomNumber/eagleWatchedFolder",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 2
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 5
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 5
+    },
+
+    "imageMode": "process raw image",
+    "processor": "standard Alta 1",
+    "processorOptions": {
+        "rescale?":true
+    }
+}

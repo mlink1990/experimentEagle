@@ -1,0 +1,44 @@
+2019-08-16 17:58:50,911 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2019-08-16 17:58:54,561 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-08-16 17:58:54,561 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2019-08-16 17:58:54,571 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2019-08-16 17:58:59,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-08-16 18:00:20,938 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to baslerNa
+2019-08-16 18:00:20,948 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 255, u'min': 0}
+2019-08-16 18:00:20,948 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_scale_changed:line=190] model scale changed
+2019-08-16 18:00:23,598 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for baslerNa
+2019-08-16 18:00:25,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-08-16 18:00:25,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-08-16 18:00:25,618 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2019-08-16 18:00:25,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (1024,1280)
+2019-08-16 18:00:25,769 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2019-08-16 18:00:25,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to False
+2019-08-16 18:00:25,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-08-16 18:00:25,769 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=172] continuing after pixels changed = True event
+2019-08-16 18:00:25,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-08-16 18:00:25,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-08-16 18:00:25,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-08-16 18:00:29,775 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to baslerLi
+2019-08-16 18:00:29,785 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 255, u'min': 0}
+2019-08-16 18:00:30,615 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for baslerLi
+2019-08-16 18:00:31,664 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=354] more than one new file found [u'basler-0-2019-08-14-03-28-52.png', u'basler-0-2019-08-14-03-31-15.png', u'basler-0-2019-08-14-03-29-40.png', u'basler-0-2019-08-14-03-31-39.png', u'basler-0-2019-08-14-03-29-17.png', u'basler-0-2019-08-14-03-32-27.png', u'basler-0-2019-08-14-03-32-03.png', u'basler-0-2019-08-14-03-30-04.png', u'basler-0-2019-08-14-03-30-28.png', u'basler-0-2019-08-14-03-30-52.png'] only analysing first one
+2019-08-16 18:00:31,664 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-08-16 18:00:31,664 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-08-16 18:00:31,664 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=122] Found very fresh sequence file. Probably read already variables of next sequence?
+2019-08-16 18:00:31,674 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=123] Use second last sequence file instead..
+2019-08-16 18:00:31,775 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: -5019322.97652
+2019-08-16 18:00:31,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (1024,1280)
+2019-08-16 18:00:31,934 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-08-16 18:00:31,934 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-08-16 18:00:31,934 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-08-16 18:00:35,404 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2019-08-16 18:00:35,414 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2019-08-16 18:00:35,414 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Control', alt_down=False, control_down=True, shift_down=False, handled=False)
+2019-08-16 18:00:35,414 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Control', alt_down=False, control_down=True, shift_down=False, handled=False)
+2019-08-16 18:00:35,414 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Control', alt_down=False, control_down=True, shift_down=False, handled=False)
+2019-08-16 18:00:36,345 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2019-08-16 18:00:36,345 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2019-08-16 18:00:36,345 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Control', alt_down=False, control_down=True, shift_down=False, handled=False)
+2019-08-16 18:00:36,345 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Control', alt_down=False, control_down=True, shift_down=False, handled=False)
+2019-08-16 18:00:36,345 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Control', alt_down=False, control_down=True, shift_down=False, handled=False)

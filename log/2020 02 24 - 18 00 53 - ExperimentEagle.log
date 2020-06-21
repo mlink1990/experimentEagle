@@ -1,0 +1,516 @@
+2020-02-24 18:00:53,404 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-02-24 18:00:57,059 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 18:00:57,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-02-24 18:00:57,073 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-02-24 18:01:02,736 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:11,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor2
+2020-02-24 18:01:11,164 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 3, u'min': -0.2}
+2020-02-24 18:01:11,167 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 18:01:11,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:12,384 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1079] Configure watch folder for Andor2
+2020-02-24 18:01:14,382 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=370] more than one new file found [u'ANDOR2_Mon Feb 24 2020_17.58.24_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.57.57_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.56.07_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.57.29_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.58.52_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.57.02_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.55.39_0_X2.tif', u'ANDOR2_Mon Feb 24 2020_17.56.34_0_X2.tif'] only analysing first one
+2020-02-24 18:01:14,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:01:14,388 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:01:14,428 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-02-24 18:01:14,556 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:01:14,559 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:01:14,561 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:14,841 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,121 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,188 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,265 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,316 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,407 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,493 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:15,857 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=93] processor: rescale factor = 2.782601504430792 using region of shape: 120, 20
+2020-02-24 18:01:15,858 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:01:16,114 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:01:16,319 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1063,1063)
+2020-02-24 18:01:16,321 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-02-24 18:01:16,322 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-02-24 18:01:16,323 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 18:01:16,361 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-02-24 18:01:16,375 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:16,404 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:01:16,407 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:24,572 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-02-24 18:01:27,582 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=76] returning optionsDict
+2020-02-24 18:01:27,596 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=editOptions:line=116] updating options dictionary with values OrderedDict([('process?', False), ('darkSubtraction?', True), ('rawImageWithDarkSubtraction?', False), ('rescale?', True), ('rescaleInitialX', 450), ('rescaleInitialY', 250), ('rescaleWidth', 20), ('rescaleHeight', 120), ('drawRescaleRegion?', True), ('rotationAngle', 87.8), ('Skip initial rows', 0), ('Skip final rows', 0), ('correct OD with alpha function?', False), ('Rescale with circular mask?', False), ('Atom mask PosX', 295), ('Atom mask PosY', 295), ('Atom mask Radius', 160), ('Balance light Radius', 200), ('Use boosted light image?', False), ('Light boost factor', 1.0), ('Binning?', False), ('Bin size', 2), ('Dark picture', u'G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor2/2020 02 24 - dark Andor2 - interval 0_01 temperature -80_0 .npy'), ('High intensity correction for low OD?', False), ('alpha', 1.25), ('C0Sat', 231), ('Imaging pulse duration', 6e-06)])
+2020-02-24 18:01:33,865 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:01:33,881 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:01:33,884 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:01:33,885 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,177 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,461 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,529 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,601 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,734 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,796 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:34,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:01:34,869 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-02-24 18:01:34,903 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-02-24 18:01:34,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 18:01:34,940 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-02-24 18:01:34,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:35,009 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:01:35,035 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:01:35,042 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=124] Found very fresh sequence file. Probably read already variables of next sequence?
+2020-02-24 18:01:35,069 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=125] Use second last sequence file instead..
+2020-02-24 18:01:35,190 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: -5.44646763802
+2020-02-24 18:01:35,305 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:01:35,308 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:01:35,309 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:35,375 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:01:36,378 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:37,769 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:38,029 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:39,469 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:39,553 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,016 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,095 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:01:41,105 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:41,138 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:01:41,167 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:41,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:01:41,173 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:01:41,203 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:01:41,203 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,466 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,542 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,592 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,658 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,706 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,769 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,818 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:41,884 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:01:41,895 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:48,243 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:01:48,259 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:01:48,263 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:01:48,265 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,313 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,375 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,426 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,503 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,556 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,632 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,684 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,756 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:01:48,766 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:48,778 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:01:48,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:01:48,803 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:01:48,805 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,885 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:48,953 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:49,003 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:49,075 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:49,128 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:49,194 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:49,243 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:01:49,328 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:01:49,338 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:01:58,707 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-02-24 18:02:02,420 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:02:02,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:02:02,555 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.0717315674
+2020-02-24 18:02:02,670 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:02,674 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:02,674 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:02,684 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:02:03,694 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:03,701 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:02:04,711 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:06,135 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:06,411 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:07,835 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:07,905 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:02:07,915 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:07,924 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:02:07,953 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:10,151 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=76] returning optionsDict
+2020-02-24 18:02:10,154 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=editOptions:line=116] updating options dictionary with values OrderedDict([('process?', True), ('darkSubtraction?', True), ('rawImageWithDarkSubtraction?', True), ('rescale?', True), ('rescaleInitialX', 450), ('rescaleInitialY', 250), ('rescaleWidth', 20), ('rescaleHeight', 120), ('drawRescaleRegion?', True), ('rotationAngle', 87.8), ('Skip initial rows', 0), ('Skip final rows', 0), ('correct OD with alpha function?', False), ('Rescale with circular mask?', False), ('Atom mask PosX', 295), ('Atom mask PosY', 295), ('Atom mask Radius', 160), ('Balance light Radius', 200), ('Use boosted light image?', False), ('Light boost factor', 1.0), ('Binning?', False), ('Bin size', 2), ('Dark picture', u'G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor2/2020 02 24 - dark Andor2 - interval 0_01 temperature -80_0 .npy'), ('High intensity correction for low OD?', False), ('alpha', 1.25), ('C0Sat', 231), ('Imaging pulse duration', 6e-06)])
+2020-02-24 18:02:13,901 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:02:13,911 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:13,917 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:13,917 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,164 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,224 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,273 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,341 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,394 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,457 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,506 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,605 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:02:14,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:14,628 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:02:14,651 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:14,653 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:14,683 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,730 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,811 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,861 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,924 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:14,973 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:15,036 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:15,086 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:15,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:02:15,194 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:30,417 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:02:30,424 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:02:31,052 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.7094042301
+2020-02-24 18:02:31,170 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:31,171 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:31,174 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:31,186 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:02:32,223 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:33,634 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:33,894 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:35,319 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:35,395 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:36,832 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:36,921 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:02:36,947 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:36,956 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:02:36,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:48,918 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:02:48,921 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:48,927 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:48,927 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,161 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,427 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,484 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,549 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,598 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,710 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,809 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:02:49,819 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:49,828 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:02:49,831 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:49,832 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:49,832 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,877 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:49,963 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:50,009 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:50,081 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:50,134 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:50,200 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:50,249 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:50,335 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:02:50,357 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:02:58,421 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:02:58,430 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:02:58,536 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.653750658
+2020-02-24 18:02:58,665 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:02:58,665 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:02:58,670 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:02:58,680 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:02:59,693 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:01,160 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:01,407 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:02,845 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:02,923 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:04,348 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:04,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:03:04,466 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:03:04,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:03:04,494 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:03:24,413 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:03:24,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:03:24,551 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.3132781982
+2020-02-24 18:03:24,665 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:03:24,670 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:03:24,671 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:24,683 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:03:25,720 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:25,727 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:03:26,737 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:28,144 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:28,405 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:29,891 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:30,032 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:03:30,052 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:03:30,088 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:03:30,115 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:03:52,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:03:52,423 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:03:52,549 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.2037792206
+2020-02-24 18:03:52,663 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:03:52,664 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:03:52,668 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:52,684 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:03:53,721 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:53,729 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:03:54,737 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:56,206 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:56,486 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:57,910 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:03:58,015 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:03:58,033 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:03:58,066 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:03:58,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:04:20,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:04:20,421 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:04:20,546 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.0930089951
+2020-02-24 18:04:20,660 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:04:20,664 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:04:20,664 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:20,673 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:04:21,687 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:23,125 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:23,404 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:24,828 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:24,898 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:26,323 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:26,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:04:26,440 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:04:26,444 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:04:26,476 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:04:41,161 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:04:41,173 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:04:41,177 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:04:41,177 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:41,453 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:41,717 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:41,769 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:41,834 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:41,882 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:41,951 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,002 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,108 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:04:42,121 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:04:42,131 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:04:42,157 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:04:42,157 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:04:42,158 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,203 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,282 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,328 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,395 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,446 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,507 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,558 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:42,645 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:04:42,664 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:04:48,418 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:04:48,426 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:04:48,543 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.2254528999
+2020-02-24 18:04:48,658 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:04:48,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:04:48,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:48,670 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:04:49,687 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:51,121 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:51,414 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:52,901 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:52,986 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:54,408 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:04:54,509 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:04:54,529 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:04:54,565 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:04:54,589 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:05:16,420 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:05:16,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:05:16,542 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.2460069656
+2020-02-24 18:05:16,657 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:05:16,660 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:05:16,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:16,671 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:05:17,683 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:19,134 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:19,398 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:20,836 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:20,904 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:22,322 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:22,424 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:05:22,436 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:05:22,444 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:05:22,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:05:42,456 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:05:42,471 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:05:42,589 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.938824892
+2020-02-24 18:05:42,707 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:05:42,710 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:05:42,711 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:42,720 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:05:43,733 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:43,739 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:05:44,750 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:46,170 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:46,430 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:47,900 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:05:48,007 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:05:48,026 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:05:48,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:05:48,084 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:06:10,417 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:06:10,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:06:10,538 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 21.6677076817
+2020-02-24 18:06:10,655 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:06:10,658 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:06:10,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:10,670 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:06:11,680 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:11,687 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:06:12,694 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:14,115 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:14,395 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:15,835 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:15,954 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:06:15,967 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:06:15,976 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:06:16,005 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:06:38,473 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:06:38,480 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:06:38,604 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.355635643
+2020-02-24 18:06:38,719 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:06:38,723 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:06:38,723 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:38,730 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:06:39,743 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:41,180 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:41,443 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:42,898 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:42,976 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:44,446 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:06:44,538 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:06:44,559 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:06:44,565 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:06:44,565 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:07:04,519 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:07:04,526 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:07:04,645 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 21.851626873
+2020-02-24 18:07:04,750 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:07:04,750 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:07:04,752 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:04,759 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:07:05,775 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:05,782 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:07:06,792 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:08,233 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:08,490 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:09,930 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:10,035 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:07:10,046 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:07:10,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:07:10,088 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:07:27,105 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-02-24 18:07:32,548 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:07:32,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:07:32,665 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.1901066303
+2020-02-24 18:07:32,780 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:07:32,785 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:07:32,786 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:32,793 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:07:33,805 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:33,812 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 2 of 4
+2020-02-24 18:07:34,825 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:34,832 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 3 of 4
+2020-02-24 18:07:35,841 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:37,308 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:37,604 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (2048,1024)
+2020-02-24 18:07:37,619 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:07:37,625 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:07:37,627 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:07:37,700 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=76] returning optionsDict
+2020-02-24 18:07:37,710 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=editOptions:line=116] updating options dictionary with values OrderedDict([('process?', True), ('darkSubtraction?', True), ('rawImageWithDarkSubtraction?', False), ('rescale?', True), ('rescaleInitialX', 450), ('rescaleInitialY', 250), ('rescaleWidth', 20), ('rescaleHeight', 120), ('drawRescaleRegion?', True), ('rotationAngle', 87.8), ('Skip initial rows', 0), ('Skip final rows', 0), ('correct OD with alpha function?', False), ('Rescale with circular mask?', False), ('Atom mask PosX', 295), ('Atom mask PosY', 295), ('Atom mask Radius', 160), ('Balance light Radius', 200), ('Use boosted light image?', False), ('Light boost factor', 1.0), ('Binning?', False), ('Bin size', 2), ('Dark picture', u'G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor2/2020 02 24 - dark Andor2 - interval 0_01 temperature -80_0 .npy'), ('High intensity correction for low OD?', False), ('alpha', 1.25), ('C0Sat', 231), ('Imaging pulse duration', 6e-06)])
+2020-02-24 18:07:49,309 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:07:49,323 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:07:49,328 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:07:49,328 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,575 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,642 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,697 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,766 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,818 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,884 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:49,938 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,032 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=93] processor: rescale factor = 2.8771856705807886 using region of shape: 120, 20
+2020-02-24 18:07:50,039 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:07:50,197 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:07:50,378 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1063,1063)
+2020-02-24 18:07:50,392 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-02-24 18:07:50,397 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-02-24 18:07:50,398 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 18:07:50,459 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-02-24 18:07:50,463 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:07:50,502 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 18:07:50,526 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:07:50,526 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:07:50,528 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,582 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,658 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,713 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,780 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,832 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,900 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:50,953 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:07:51,049 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=93] processor: rescale factor = 2.8771856705807886 using region of shape: 120, 20
+2020-02-24 18:07:51,053 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:07:51,196 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:07:51,391 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1063,1063)
+2020-02-24 18:07:51,405 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:08:00,548 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:08:00,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:08:00,696 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.9874200821
+2020-02-24 18:08:00,815 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:08:00,818 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:08:00,819 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:00,828 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:08:01,839 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:03,322 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:03,571 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:04,994 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:05,069 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:06,523 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:06,618 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=93] processor: rescale factor = 2.6707654906113003 using region of shape: 120, 20
+2020-02-24 18:08:06,619 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:08:06,776 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:08:06,960 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1063,1063)
+2020-02-24 18:08:06,974 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:08:06,983 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:08:07,009 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:08:28,539 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:08:28,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:08:28,663 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.2846927643
+2020-02-24 18:08:28,778 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:08:28,782 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:08:28,786 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:28,793 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:08:29,805 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:31,226 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:31,484 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:32,956 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:33,016 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:34,440 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:34,539 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=93] processor: rescale factor = 2.619127904107455 using region of shape: 120, 20
+2020-02-24 18:08:34,540 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:08:34,694 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:08:34,891 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1063,1063)
+2020-02-24 18:08:34,900 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:08:34,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:08:34,905 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:08:56,546 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 18:08:56,553 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 18:08:56,671 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 22.7778265476
+2020-02-24 18:08:56,776 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000B2A5DB0>
+2020-02-24 18:08:56,779 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-02-24 18:08:56,780 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:56,790 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=process:line=84] IOError for loading tif file. Since Andor Solis needs some time to save this picture, wait 1 s and try again. Try 1 of 4
+2020-02-24 18:08:57,801 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:59,240 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:08:59,516 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:09:00,924 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:09:00,999 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:09:02,421 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-02-24 18:09:02,526 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=93] processor: rescale factor = 2.285531786829647 using region of shape: 120, 20
+2020-02-24 18:09:02,528 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:09:02,690 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OP picture..
+2020-02-24 18:09:02,888 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1063,1063)
+2020-02-24 18:09:02,898 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:09:02,903 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-02-24 18:09:02,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 18:09:04,750 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=238] attempting to stop timers

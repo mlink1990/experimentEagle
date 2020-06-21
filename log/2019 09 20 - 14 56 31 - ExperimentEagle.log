@@ -1,0 +1,37 @@
+2019-09-20 14:56:31,352 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2019-09-20 14:56:36,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-20 14:56:36,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2019-09-20 14:56:36,197 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2019-09-20 14:56:41,736 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-20 14:56:44,891 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to Andor0
+2019-09-20 14:56:44,921 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 5, u'min': -0.2}
+2019-09-20 14:56:44,937 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=139] image file not found. filling with zeros
+2019-09-20 14:56:44,937 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-20 14:56:46,450 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for Andor0
+2019-09-20 14:56:46,467 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1066] Invalid watchFolder: T:/TOFAtomNumber/eagleWatchedFolder
+2019-09-20 14:56:48,479 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:56:50,490 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:56:52,721 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:56:54,516 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:56:56,529 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:56:58,540 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:00,552 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:02,565 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:04,578 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:06,591 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:08,602 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:10,615 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:12,628 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:14,640 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:16,653 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:18,664 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:20,673 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:22,694 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:24,707 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:26,716 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:26,996 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for Andor0
+2019-09-20 14:57:27,012 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1066] Invalid watchFolder: T:/TOFAtomNumber/eagleWatchedFolder
+2019-09-20 14:57:28,730 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:30,743 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2019-09-20 14:57:32,756 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files

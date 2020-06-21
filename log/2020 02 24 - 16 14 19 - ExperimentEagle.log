@@ -1,0 +1,23 @@
+2020-02-24 16:14:19,095 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-02-24 16:14:23,243 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 16:14:23,256 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-02-24 16:14:23,269 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-02-24 16:14:29,447 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:14:54,316 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor2
+2020-02-24 16:14:54,355 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 3, u'min': -0.2}
+2020-02-24 16:14:54,371 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 16:14:54,372 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:15:14,168 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-02-24 16:15:14,178 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-02-24 16:15:14,184 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-02-24 16:15:14,430 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor2.StandardAndor2 object at 0x000000000AFADD58>
+2020-02-24 16:15:14,437 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=73] using standard Andor 0 process function
+2020-02-24 16:15:14,443 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-24 16:15:14,513 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] loaded picture is not monochromatic, take mean of color values..
+2020-02-24 16:15:18,061 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=40] normal key pressed
+2020-02-24 16:15:18,072 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=41] 3 keys registered for detection
+2020-02-24 16:15:18,073 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Alt', alt_down=True, control_down=False, shift_down=False, handled=False)
+2020-02-24 16:15:18,076 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Alt', alt_down=True, control_down=False, shift_down=False, handled=False)
+2020-02-24 16:15:18,078 [INFO ] [MainThread] [ExperimentEagle.KeyBindingTool] [func=normal_key_pressed:line=43] normal key press detected: KeyEvent(event_type='key_pressed', character='Alt', alt_down=True, control_down=False, shift_down=False, handled=False)
+2020-02-24 16:16:39,607 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=240] couldn't stop current timer 'NoneType' object has no attribute 'stop' 

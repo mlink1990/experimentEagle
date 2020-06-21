@@ -1,0 +1,181 @@
+2020-02-11 17:45:58,431 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-02-11 17:46:02,135 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=956] self.fixAspectRatioBool changed to True
+2020-02-11 17:46:02,147 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=585] Load settings
+2020-02-11 17:46:02,158 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=582] initialisation of experiment Eagle complete
+2020-02-11 17:46:07,674 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:09,572 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1021] Camera model changed to Alta1 processor
+2020-02-11 17:46:09,588 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1037] {u'auto': False, u'max': 5, u'min': -0.2}
+2020-02-11 17:46:09,592 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=141] image file not found. filling with zeros
+2020-02-11 17:46:09,625 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:10,040 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1064] Configure watch folder for Alta1 processor
+2020-02-11 17:46:10,868 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=201] force refresh button fired
+2020-02-11 17:46:10,878 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=141] image file not found. filling with zeros
+2020-02-11 17:46:10,878 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:10,884 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=356] more than one new file found [u'evaporation Optimisation 7_ALTA0atoms_1102 174316.png', u'evaporation Optimisation 7_ALTA0atoms_1102 174221.png', u'evaporation Optimisation 7_ALTA0atoms_1102 174248.png', u'evaporation Optimisation 7_ALTA0atoms_1102 174344.png'] only analysing first one
+2020-02-11 17:46:10,885 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] ######################## Selected File changed ########################
+2020-02-11 17:46:10,887 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=990] Update physics
+2020-02-11 17:46:10,891 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-02-11 17:46:11,026 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:46:11,039 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:46:11,039 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174316.png
+2020-02-11 17:46:11,043 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174316.png
+2020-02-11 17:46:11,045 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174316.png
+2020-02-11 17:46:11,046 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:11,068 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:11,127 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4610.8592097
+2020-02-11 17:46:11,157 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4983.66720327
+2020-02-11 17:46:11,157 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:11,187 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.62662252
+2020-02-11 17:46:11,226 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:46:11,230 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:46:11,302 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:46:11,309 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:46:11,322 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:11,380 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] succesfully completed getImageData. Will now break from repetition loop
+2020-02-11 17:46:11,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:11,384 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=201] force refresh button fired
+2020-02-11 17:46:11,404 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:46:11,437 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:46:11,437 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174316.png
+2020-02-11 17:46:11,438 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174316.png
+2020-02-11 17:46:11,440 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174316.png
+2020-02-11 17:46:11,440 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:11,461 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:11,519 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4610.8592097
+2020-02-11 17:46:11,522 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4983.66720327
+2020-02-11 17:46:11,523 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:11,546 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.62662252
+2020-02-11 17:46:11,572 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:46:11,575 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:46:11,644 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:46:11,647 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:46:11,648 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:34,062 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] ######################## Selected File changed ########################
+2020-02-11 17:46:34,075 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=990] Update physics
+2020-02-11 17:46:34,081 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=122] Found very fresh sequence file. Probably read already variables of next sequence?
+2020-02-11 17:46:34,082 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=123] Use second last sequence file instead..
+2020-02-11 17:46:34,217 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: -9.66841840744
+2020-02-11 17:46:34,351 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:46:34,352 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:46:34,354 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174412.png
+2020-02-11 17:46:34,355 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174412.png
+2020-02-11 17:46:34,355 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174412.png
+2020-02-11 17:46:34,358 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:34,381 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:34,490 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4522.32210286
+2020-02-11 17:46:34,525 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4945.91656494
+2020-02-11 17:46:34,532 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:34,551 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=999] Error. received Attribute Error when trying to getImageData. This occurs sometimes and causes duplicate points...
+2020-02-11 17:46:34,553 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1000] Error message :__float__
+2020-02-11 17:46:34,555 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1001] Will sleep and then retry
+2020-02-11 17:46:35,176 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:46:35,177 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:46:35,178 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174412.png
+2020-02-11 17:46:35,180 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174412.png
+2020-02-11 17:46:35,180 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174412.png
+2020-02-11 17:46:35,183 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:35,240 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:35,263 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4522.32210286
+2020-02-11 17:46:35,286 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4945.91656494
+2020-02-11 17:46:35,289 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:46:35,341 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.56182353
+2020-02-11 17:46:35,357 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:46:35,362 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:46:35,430 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:46:35,434 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:46:35,438 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:46:35,440 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] succesfully completed getImageData. Will now break from repetition loop
+2020-02-11 17:46:35,441 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:02,068 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] ######################## Selected File changed ########################
+2020-02-11 17:47:02,069 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=990] Update physics
+2020-02-11 17:47:02,184 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 18.263477087
+2020-02-11 17:47:02,312 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:47:02,313 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:47:02,315 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174439.png
+2020-02-11 17:47:02,329 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174439.png
+2020-02-11 17:47:02,331 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174439.png
+2020-02-11 17:47:02,332 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:02,355 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:02,407 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4578.68841044
+2020-02-11 17:47:02,440 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4931.67431386
+2020-02-11 17:47:02,440 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:02,474 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.60325877
+2020-02-11 17:47:02,510 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:47:02,515 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.0 using region of shape: 50, 50
+2020-02-11 17:47:02,589 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:47:02,592 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:47:02,595 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:02,598 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] succesfully completed getImageData. Will now break from repetition loop
+2020-02-11 17:47:02,599 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:14,729 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=76] returning optionsDict
+2020-02-11 17:47:14,743 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=editOptions:line=96] updating options dictionary with values OrderedDict([('process?', True), ('darkSubtraction?', True), ('rawImageWithDarkSubtraction?', False), ('rescale?', False), ('rescaleInitialX', 450), ('rescaleInitialY', 300), ('rescaleWidth', 50), ('rescaleHeight', 100), ('drawRescaleRegion?', True), ('rotationAngle', 180.0)])
+2020-02-11 17:47:15,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=201] force refresh button fired
+2020-02-11 17:47:15,637 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:47:15,661 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:47:15,661 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174439.png
+2020-02-11 17:47:15,663 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174439.png
+2020-02-11 17:47:15,664 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174439.png
+2020-02-11 17:47:15,665 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:15,687 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:15,747 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4578.68841044
+2020-02-11 17:47:15,783 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4931.67431386
+2020-02-11 17:47:15,785 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:15,812 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.60325877
+2020-02-11 17:47:15,914 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:47:15,917 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:47:15,918 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:15,923 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=201] force refresh button fired
+2020-02-11 17:47:15,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:47:15,967 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:47:15,970 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174439.png
+2020-02-11 17:47:15,970 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174439.png
+2020-02-11 17:47:15,971 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174439.png
+2020-02-11 17:47:15,973 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:15,994 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:16,053 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4578.68841044
+2020-02-11 17:47:16,056 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4931.67431386
+2020-02-11 17:47:16,092 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:16,115 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.60325877
+2020-02-11 17:47:16,190 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:47:16,217 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:47:16,220 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:30,049 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] ######################## Selected File changed ########################
+2020-02-11 17:47:30,052 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=990] Update physics
+2020-02-11 17:47:30,186 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 17.7748630047
+2020-02-11 17:47:30,322 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:47:30,322 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:47:30,323 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174507.png
+2020-02-11 17:47:30,325 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174507.png
+2020-02-11 17:47:30,325 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174507.png
+2020-02-11 17:47:30,328 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:30,354 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:30,411 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4636.25774638
+2020-02-11 17:47:30,414 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4987.44608816
+2020-02-11 17:47:30,415 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:30,446 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.68135325
+2020-02-11 17:47:30,552 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:47:30,555 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:47:30,559 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:30,565 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] succesfully completed getImageData. Will now break from repetition loop
+2020-02-11 17:47:30,566 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:58,058 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] ######################## Selected File changed ########################
+2020-02-11 17:47:58,059 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=990] Update physics
+2020-02-11 17:47:58,186 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 18.1724545956
+2020-02-11 17:47:58,315 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=165] processor = <processors.standardAlta1.StandardAlta1 object at 0x000000000B090938>
+2020-02-11 17:47:58,318 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=37] using standard Alta 1 process function
+2020-02-11 17:47:58,319 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=42] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0atoms_1102 174535.png
+2020-02-11 17:47:58,319 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=43] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0dark_1102 174535.png
+2020-02-11 17:47:58,321 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=44] T:/TOFAtomNumber/eagleWatchedFolder\evaporation Optimisation 7_ALTA0light_1102 174535.png
+2020-02-11 17:47:58,323 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:58,348 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:58,407 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=52] atoms array mean:4641.5630544
+2020-02-11 17:47:58,440 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=53] light array mean:4921.91338603
+2020-02-11 17:47:58,441 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-02-11 17:47:58,473 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=58] dark array mean:2788.77302551
+2020-02-11 17:47:58,575 [ERROR] [MainThread] [ExperimentEagle.Processor] [func=process:line=78] OD mean:0.0
+2020-02-11 17:47:58,578 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=169] shape of raw Image = (512,768)
+2020-02-11 17:47:58,581 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:47:58,584 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] succesfully completed getImageData. Will now break from repetition loop
+2020-02-11 17:47:58,585 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=826] updating plot
+2020-02-11 17:48:12,898 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=230] attempting to stop timers

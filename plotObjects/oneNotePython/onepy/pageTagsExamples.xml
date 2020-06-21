@@ -1,0 +1,41 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 07 16:32:12 2016
+
+@author: tharrison
+"""
+
+<one:TagDef fontColor="#808083" highlightColor="none" index="0" name="Higgs Mode" symbol="0" type="1" />
+<one:TagDef fontColor="automatic" highlightColor="none" index="1" name="Page Tags" symbol="26" type="23" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="0" name="Video" symbol="0" type="2" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="1" name="Double Structure" symbol="0" type="1" />
+
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="0" name="Rabi Frequency" symbol="0" type="12" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="1" name="Optimisation" symbol="0" type="11" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="2" name="Important Plot" symbol="0" type="10" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="3" name="Important" symbol="0" type="9" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="4" name="Higgs Mode" symbol="0" type="8" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="5" name="Fitted Data" symbol="0" type="7" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="6" name="Double Structure" symbol="0" type="6" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="7" name="Dipole Trap" symbol="0" type="5" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="8" name="Debug" symbol="0" type="4" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="9" name="Check" symbol="0" type="3" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="10" name="Calibration" symbol="0" type="2" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="11" name="BEC" symbol="0" type="1" />
+
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="automatic" highlightColor="none" index="12" name="Page Tags" symbol="26" type="23" />
+
+
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="0" name="Check" symbol="0" type="3" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="1" name="Calibration" symbol="0" type="2" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="2" name="BEC" symbol="0" type="1" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="automatic" highlightColor="none" index="3" name="Page Tags" symbol="26" type="23" />
+
+
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="0" name="Optimisation" symbol="0" type="4" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="1" name="Check" symbol="0" type="0" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="2" name="Calibration" symbol="0" type="1" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="#808083" highlightColor="none" index="3" name="BEC" symbol="0" type="2" />
+<one:TagDef xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" fontColor="automatic" highlightColor="none" index="4" name="Page Tags" symbol="26" type="23" />
+
+<one:Meta xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" content="BEC, Calibration, Check, Optimisation" name="TaggingKit.PageTags" />

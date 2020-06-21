@@ -1,0 +1,27 @@
+2020-02-24 16:53:12,292 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-02-24 16:53:16,209 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-02-24 16:53:16,211 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-02-24 16:53:16,226 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-02-24 16:53:22,040 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:53:27,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor2
+2020-02-24 16:53:27,615 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 3, u'min': -0.2}
+2020-02-24 16:53:27,618 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 16:53:27,619 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:53:28,474 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1079] Configure watch folder for Andor2
+2020-02-24 16:53:31,657 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 16:53:31,665 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 16:53:31,670 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:53:31,673 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 16:53:31,674 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 16:53:31,674 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:54:02,845 [WARNI] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=createOption:line=43] unrecognised option type (<type 'unicode'>) in processor. Using traits.Any Editor and value
+2020-02-24 16:54:04,507 [INFO ] [MainThread] [ExperimentEagle.OptionsDictionaryEditor] [func=editOptionsDialog:line=76] returning optionsDict
+2020-02-24 16:54:04,516 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=editOptions:line=116] updating options dictionary with values OrderedDict([('process?', True), ('darkSubtraction?', True), ('rawImageWithDarkSubtraction?', False), ('rescale?', True), ('rescaleInitialX', 450), ('rescaleInitialY', 250), ('rescaleWidth', 20), ('rescaleHeight', 120), ('drawRescaleRegion?', True), ('rotationAngle', 87.8), ('Skip initial rows', 0), ('Skip final rows', 0), ('correct OD with alpha function?', False), ('Rescale with circular mask?', False), ('Atom mask PosX', 295), ('Atom mask PosY', 295), ('Atom mask Radius', 160), ('Balance light Radius', 200), ('Use boosted light image?', False), ('Light boost factor', 1.0), ('Binning?', False), ('Bin size', 2), ('Dark picture', u'G:/Experiment Humphry/Experiment Control And Software/experimentEagle/calibration/darkPictures/Andor2/2020 02 22 - dark Andor2 - interval 0_017 temperature -80_0 16 c 5_1 3_3 n 100.npy'), ('High intensity correction for low OD?', False), ('alpha', 1.25), ('C0Sat', 231), ('Imaging pulse duration', 6e-06)])
+2020-02-24 16:54:05,609 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 16:54:05,618 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 16:54:05,618 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:54:05,625 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-02-24 16:54:05,654 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-02-24 16:54:05,654 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-02-24 16:55:33,805 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=238] attempting to stop timers

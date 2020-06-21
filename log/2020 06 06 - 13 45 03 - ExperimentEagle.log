@@ -1,0 +1,10 @@
+2020-06-06 13:45:03,563 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=60] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-06-06 13:46:10,043 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=972] self.fixAspectRatioBool changed to True
+2020-06-06 13:46:10,043 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=601] Load settings
+2020-06-06 13:46:10,053 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=598] initialisation of experiment Eagle complete
+2020-06-06 13:46:16,187 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=842] updating plot
+2020-06-06 13:46:23,131 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1037] Camera model changed to baslerLi
+2020-06-06 13:46:23,161 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1053] {u'auto': False, u'max': 255, u'min': 0}
+2020-06-06 13:46:23,161 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_scale_changed:line=195] model scale changed
+2020-06-06 13:46:24,381 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1081] Configure watch folder for baslerLi

@@ -1,0 +1,238 @@
+2019-09-25 11:01:58,065 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2019-09-25 11:02:02,762 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-25 11:02:02,762 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2019-09-25 11:02:02,762 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2019-09-25 11:02:08,158 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:03:06,308 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to Andor0
+2019-09-25 11:03:06,322 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 5, u'min': -0.2}
+2019-09-25 11:03:06,322 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=139] image file not found. filling with zeros
+2019-09-25 11:03:06,338 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:03:09,802 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1057] Configure watch folder for Andor0
+2019-09-25 11:03:11,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 11:03:11,973 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 11:03:11,973 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2019-09-25 11:03:12,144 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D5348D0>
+2019-09-25 11:03:12,144 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 11:03:12,144 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 11:03:13,923 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.000582561689728 using region of shape: 50, 50
+2019-09-25 11:03:14,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 11:03:14,000 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2019-09-25 11:03:14,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to False
+2019-09-25 11:03:14,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2019-09-25 11:03:14,000 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=172] continuing after pixels changed = True event
+2019-09-25 11:03:14,016 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:03:14,016 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 11:03:14,016 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:03:29,233 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-09-25 11:03:36,019 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 11:03:36,019 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 11:03:36,582 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 2.44619464874
+2019-09-25 11:03:36,737 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D5348D0>
+2019-09-25 11:03:36,737 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 11:03:36,737 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 11:03:38,484 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.120159625528009 using region of shape: 50, 50
+2019-09-25 11:03:38,562 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 11:03:38,562 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:03:38,562 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 11:03:38,562 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:03:40,825 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=270] Box selection complete
+2019-09-25 11:03:46,878 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:03:46,878 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:03:46,878 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:03:48,125 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:03:48,125 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:03:48,125 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:05,813 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:05,813 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:05,813 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:09,572 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:04:09,572 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:09,572 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:09,572 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:09,697 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:04:09,697 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = NAN
+2019-09-25 11:04:09,697 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = -INF
+2019-09-25 11:04:09,697 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:04:09,697 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:04:09,697 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = -INF
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = INF
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = -INF
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = INF
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:09,713 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:04:20,262 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 11:04:20,262 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 11:04:20,417 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 2.53604793549
+2019-09-25 11:04:20,573 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D5348D0>
+2019-09-25 11:04:20,573 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 11:04:20,573 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 11:04:22,336 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.0599651550709446 using region of shape: 50, 50
+2019-09-25 11:04:22,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 11:04:22,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:04:22,414 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 11:04:22,430 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:04:22,430 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:04:22,430 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:22,430 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:22,430 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:22,507 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:22,507 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:22,507 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:22,571 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = NAN
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = -INF
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = -INF
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = INF
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = -INF
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = INF
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:22,585 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:22,601 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:04:54,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 11:04:54,460 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 11:04:54,615 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 2.49905157089
+2019-09-25 11:04:54,772 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D5348D0>
+2019-09-25 11:04:54,772 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 11:04:54,772 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 11:04:56,535 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.983558968644259 using region of shape: 50, 50
+2019-09-25 11:04:56,612 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 11:04:56,612 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:04:56,628 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 11:04:56,628 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:04:56,628 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:04:56,628 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:56,628 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:56,628 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = 1570.8
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = -INF
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = 0.012549
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = 0.113928
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = 0.012549
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = 0.113928
+2019-09-25 11:04:56,783 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:04:56,799 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:04:56,799 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:04:56,799 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:05:38,743 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 11:05:38,743 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 11:05:38,898 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 2.52635598183
+2019-09-25 11:05:39,069 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D5348D0>
+2019-09-25 11:05:39,069 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 11:05:39,069 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 11:05:40,848 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 2.196974404796132 using region of shape: 50, 50
+2019-09-25 11:05:40,927 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 11:05:40,927 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:05:40,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 11:05:40,941 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:05:40,941 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:05:40,941 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:05:40,941 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:05:40,941 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:05:41,098 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:05:41,098 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = 1570.8
+2019-09-25 11:05:41,098 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = -INF
+2019-09-25 11:05:41,098 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:05:41,098 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:05:41,098 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = 0.012549
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = 0.113928
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = 0.012549
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = 0.113928
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:05:41,114 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:06:14,950 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:06:14,950 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:14,950 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:14,950 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = 1570.8
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = 1130.97
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = 0.012549
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = 0.113928
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = 0.012549
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = 0.113928
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:15,059 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:15,075 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=run:line=160] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2019-09-25 11:06:15,075 [INFO ] [Thread-7] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=809] first fit plot so initialising contour plot
+2019-09-25 11:06:15,091 [INFO ] [Thread-7] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=811] attempting to set fit data
+2019-09-25 11:06:15,214 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:06:23,012 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2019-09-25 11:06:23,012 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2019-09-25 11:06:23,167 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 2.57761502266
+2019-09-25 11:06:23,323 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0D5348D0>
+2019-09-25 11:06:23,323 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2019-09-25 11:06:23,323 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2019-09-25 11:06:25,102 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.9478993941728993 using region of shape: 50, 50
+2019-09-25 11:06:25,164 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2019-09-25 11:06:25,164 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:06:25,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2019-09-25 11:06:25,180 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:06:25,180 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2019-09-25 11:06:25,180 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:25,180 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:25,180 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:25,414 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = 1570.8
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = 1130.97
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = 0.012549
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = 0.113928
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = 0.012549
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = 0.113928
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=run:line=160] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2019-09-25 11:06:25,430 [INFO ] [Thread-8] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=811] attempting to set fit data
+2019-09-25 11:06:25,555 [INFO ] [Thread-8] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:06:31,398 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:06:31,398 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:31,398 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:31,398 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:31,507 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:06:31,507 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = 1570.8
+2019-09-25 11:06:31,507 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = 1130.97
+2019-09-25 11:06:31,507 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:06:31,507 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = 0.012549
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = 0.113928
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = 0.012549
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = 0.113928
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=run:line=160] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2019-09-25 11:06:31,523 [INFO ] [Thread-9] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=811] attempting to set fit data
+2019-09-25 11:06:31,648 [INFO ] [Thread-9] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file
+2019-09-25 11:06:57,377 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2019-09-25 11:06:57,377 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:57,392 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:57,392 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:57,486 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=109] imagePixelArea integral in m^2 = 1.4173E-11
+2019-09-25 11:06:57,486 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=120] gaussian integral in pixels = 1570.8
+2019-09-25 11:06:57,486 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=127] parabolaIntegral in pixels = 1130.97
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=148] imagePixelLength integral  = 3.76471E-06
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=150] m  = 9.98834E-27
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=153] vx = 0.012549
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=155] Tx = 0.113928
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=160] vy = 0.012549
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=162] Ty = 0.113928
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=349] xs array sliced length 196 
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=350] ys array sliced length 291  
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=352] zs sub space array 291,196 
+2019-09-25 11:06:57,502 [INFO ] [Thread-10] [ExperimentEagle.fits] [func=run:line=165] saving last fit results to a separate text file

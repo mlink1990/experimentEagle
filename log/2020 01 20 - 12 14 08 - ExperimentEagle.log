@@ -1,0 +1,313 @@
+2020-01-20 12:14:08,888 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=59] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-01-20 12:14:22,479 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2020-01-20 12:14:22,480 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=583] Load settings
+2020-01-20 12:14:22,490 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=580] initialisation of experiment Eagle complete
+2020-01-20 12:14:28,255 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:14:34,267 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1019] Camera model changed to Andor0
+2020-01-20 12:14:34,318 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] {u'auto': False, u'max': 5, u'min': -0.2}
+2020-01-20 12:14:34,322 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=139] image file not found. filling with zeros
+2020-01-20 12:14:34,323 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:14:40,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:42,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:44,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:46,533 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:48,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:50,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:52,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:54,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:56,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:14:58,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:00,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:02,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:04,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:06,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:08,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:10,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:12,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:14,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:16,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:18,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:20,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:22,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:24,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:26,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:28,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:30,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:32,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:34,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:36,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:38,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:40,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:42,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:44,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:46,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:48,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:50,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:52,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:54,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:56,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:15:58,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:00,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:02,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:04,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:06,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:08,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:10,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:12,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:14,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:16,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:18,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:20,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:22,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:24,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:26,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:28,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:30,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:32,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:34,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:36,101 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:38,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:40,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:42,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:44,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:46,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:48,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:50,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:52,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:54,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:56,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:16:58,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:00,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:02,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:04,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:06,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:08,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:10,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:12,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:14,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:16,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:18,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:20,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:22,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:24,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:26,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:28,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:30,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:32,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:34,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:36,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:38,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:40,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:42,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:44,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:46,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:48,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:50,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:52,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:54,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:56,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:17:58,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:00,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:02,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:04,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:06,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:08,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:10,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:12,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:14,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:16,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:18,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:20,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:22,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:24,104 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:26,104 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:28,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:30,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:32,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:34,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:36,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:38,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:40,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:42,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:44,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:46,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:48,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:50,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:52,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:54,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:56,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:18:58,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:00,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:02,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:04,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:06,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:08,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:10,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:12,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:14,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:16,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:18,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:20,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:22,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:24,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:26,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:28,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:30,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:32,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:34,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:36,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:38,104 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:40,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:42,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:44,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:46,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:48,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:50,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:52,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:54,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:56,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:19:58,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:00,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:02,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:04,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:06,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:08,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:10,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:12,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:14,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:16,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:18,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:20,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:22,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:24,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:26,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:28,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:30,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:32,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:34,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:36,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:38,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:40,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:42,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:44,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:46,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:48,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:50,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:52,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:54,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:56,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:20:58,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:00,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:02,101 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:04,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:06,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:08,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:10,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:12,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:14,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:16,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:18,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:20,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:22,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:24,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:26,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:28,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:30,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:32,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:34,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:36,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:38,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:40,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:42,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:44,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:46,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:48,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:50,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:52,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:54,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:56,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:21:58,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:00,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:02,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:04,096 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:06,095 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:08,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:10,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:12,098 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:14,094 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:16,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:18,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:20,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:22,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:24,091 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=339] watchFolder is not a valid directory. Will not check for new files
+2020-01-20 12:22:26,101 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=354] more than one new file found [u'evaporation Optimisation 7_ANDOR0FT_2001 122139.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122326.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122046.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122232.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122352.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122206.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122113.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122020.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122259.png', u'evaporation Optimisation 7_ANDOR0FT_2001 121953.png'] only analysing first one
+2020-01-20 12:22:26,102 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-20 12:22:26,104 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-20 12:22:26,109 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=139] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-01-20 12:22:26,427 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0A9E9630>
+2020-01-20 12:22:26,428 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2020-01-20 12:22:26,430 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-01-20 12:22:27,552 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.76802515966 using region of shape: 20, 20
+2020-01-20 12:22:27,658 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2020-01-20 12:22:27,661 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-01-20 12:22:27,661 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to False
+2020-01-20 12:22:27,664 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=954] self.fixAspectRatioBool changed to True
+2020-01-20 12:22:27,683 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=172] continuing after pixels changed = True event
+2020-01-20 12:22:27,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:22:27,734 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-20 12:22:27,736 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:22:36,104 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-20 12:22:36,105 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-20 12:22:36,111 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=122] Found very fresh sequence file. Probably read already variables of next sequence?
+2020-01-20 12:22:36,111 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=123] Use second last sequence file instead..
+2020-01-20 12:22:36,332 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: -116.08327055
+2020-01-20 12:22:36,490 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0A9E9630>
+2020-01-20 12:22:36,490 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2020-01-20 12:22:36,492 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-01-20 12:22:37,572 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.83780454971 using region of shape: 20, 20
+2020-01-20 12:22:37,653 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2020-01-20 12:22:37,657 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:22:37,703 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-20 12:22:37,704 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:22:41,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=199] force refresh button fired
+2020-01-20 12:22:41,813 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0A9E9630>
+2020-01-20 12:22:41,815 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2020-01-20 12:22:41,815 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-01-20 12:22:42,878 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.83780454971 using region of shape: 20, 20
+2020-01-20 12:22:42,960 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2020-01-20 12:22:42,966 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:23:01,598 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=354] more than one new file found [u'evaporation Optimisation 7_ANDOR0FT_2001 122139.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122326.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122046.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122232.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122352.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122206.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122113.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122419.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122445.png', u'evaporation Optimisation 7_ANDOR0FT_2001 121953.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122259.png', u'evaporation Optimisation 7_ANDOR0FT_2001 122020.png'] only analysing first one
+2020-01-20 12:23:01,598 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-20 12:23:01,599 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-20 12:23:01,730 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: 16.9792420864
+2020-01-20 12:23:01,869 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0A9E9630>
+2020-01-20 12:23:01,871 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2020-01-20 12:23:01,872 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-01-20 12:23:02,984 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.76802515966 using region of shape: 20, 20
+2020-01-20 12:23:03,066 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2020-01-20 12:23:03,072 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:23:03,118 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-20 12:23:03,118 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:23:24,493 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1061] Configure watch folder for Andor0
+2020-01-20 12:23:29,750 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=199] force refresh button fired
+2020-01-20 12:23:29,789 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0A9E9630>
+2020-01-20 12:23:29,792 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2020-01-20 12:23:29,792 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-01-20 12:23:30,884 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.76802515966 using region of shape: 20, 20
+2020-01-20 12:23:30,971 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2020-01-20 12:23:30,976 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:23:33,602 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=986] ######################## Selected File changed ########################
+2020-01-20 12:23:33,604 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=988] Update physics
+2020-01-20 12:23:33,609 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=122] Found very fresh sequence file. Probably read already variables of next sequence?
+2020-01-20 12:23:33,611 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=123] Use second last sequence file instead..
+2020-01-20 12:23:33,733 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=127] Age of sequence file: -168.815331936
+2020-01-20 12:23:33,944 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=163] processor = <processors.standardAndor0.StandardAndor0 object at 0x0A9E9630>
+2020-01-20 12:23:33,944 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=32] using standard Andor 0 process function
+2020-01-20 12:23:33,946 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=38] processor reading file!
+2020-01-20 12:23:35,032 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=rescale:line=81] processor: rescale factor = 1.64561994262 using region of shape: 20, 20
+2020-01-20 12:23:35,117 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=167] shape of raw Image = (723,723)
+2020-01-20 12:23:35,121 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:23:35,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] succesfully completed getImageData. Will now break from repetition loop
+2020-01-20 12:23:35,171 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=824] updating plot
+2020-01-20 12:23:44,848 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=228] attempting to stop timers

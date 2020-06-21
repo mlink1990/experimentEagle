@@ -1,0 +1,6 @@
+{
+    "logAnalysers": [
+        "fits/logAnalysers/alwaysUse.py"
+    ],
+    "logAnalyserBool": true
+}

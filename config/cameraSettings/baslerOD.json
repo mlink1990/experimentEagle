@@ -1,0 +1,28 @@
+{
+    "pixelSize": 5.3,
+    "magnification": 0.25,
+    "searchString": "^basler[\\S]*atoms.png$",
+    "watchFolder": "T:/TOFAtomNumber/baslerNa",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 2
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": 0,
+        "max": 255
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": 0,
+        "max": 255
+    },
+
+    "scale": 1,
+    "offset": 0,
+
+    "imageMode": "process raw image",
+	"processor": "baslerOD"
+}

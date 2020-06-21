@@ -1,0 +1,27 @@
+{
+    "pixelSize": 5.3,
+    "magnification": 0.15,
+    "searchString": "basler",
+    "watchFolder": "T:/TOFAtomNumber/baslerNa",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 120
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": 0,
+        "max": 255
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": 0,
+        "max": 255
+    },
+
+    "scale": 1,
+    "offset": 0,
+
+    "imageMode": "optical density"
+}

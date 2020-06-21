@@ -1,0 +1,137 @@
+2020-05-14 19:48:26,016 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=60] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-05-14 19:48:29,855 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-05-14 19:48:29,855 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-05-14 19:48:29,865 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-05-14 19:48:36,025 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:48:40,002 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1035] Camera model changed to Andor1
+2020-05-14 19:48:40,012 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_cameraModel_changed:line=1051] {u'auto': False, u'max': 5, u'min': 0}
+2020-05-14 19:48:40,012 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-05-14 19:48:40,012 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:48:40,732 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_configureWatchFolder_fired:line=1079] Configure watch folder for Andor1
+2020-05-14 19:48:41,762 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-05-14 19:48:41,762 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=142] image file not found. filling with zeros
+2020-05-14 19:48:41,762 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:48:41,772 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=checkForNewFiles:line=370] more than one new file found [u'Pigeon with RR TrapReleaseTime = 0.0015_ANDOR0FT_1405 194528.png', u'Pigeon with RR TrapReleaseTime = 0.0015_ANDOR0FT_1405 194556.png'] only analysing first one
+2020-05-14 19:48:41,772 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-05-14 19:48:41,772 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-05-14 19:48:41,772 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-05-14 19:48:41,871 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F02E480>
+2020-05-14 19:48:41,871 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-05-14 19:48:41,871 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-05-14 19:48:42,012 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-05-14 19:48:42,082 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-05-14 19:48:42,092 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-05-14 19:48:42,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-05-14 19:48:42,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-05-14 19:48:42,092 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-05-14 19:48:42,101 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:48:42,101 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-05-14 19:48:42,101 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:48:42,111 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-05-14 19:48:42,111 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F02E480>
+2020-05-14 19:48:42,111 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-05-14 19:48:42,111 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-05-14 19:48:42,161 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-05-14 19:48:42,232 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-05-14 19:48:42,232 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:48:48,631 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=286] Box selection complete
+2020-05-14 19:48:53,252 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:48:53,252 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:48:53,252 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:48:55,782 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-05-14 19:48:55,782 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:48:55,792 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:48:55,792 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:48:55,832 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:48:55,832 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:48:55,832 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:48:55,832 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-05-14 19:48:55,832 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=172] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-05-14 19:48:55,832 [INFO ] [Thread-3] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=825] first fit plot so initialising contour plot
+2020-05-14 19:48:55,861 [INFO ] [Thread-3] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-05-14 19:48:55,941 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=177] saving last fit results to a separate text file
+2020-05-14 19:49:04,681 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-05-14 19:49:04,871 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-05-14 19:49:04,871 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-05-14 19:49:04,871 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=124] Found very fresh sequence file. Probably read already variables of next sequence?
+2020-05-14 19:49:04,871 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=125] Use second last sequence file instead..
+2020-05-14 19:49:04,982 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: -11.8881168365
+2020-05-14 19:49:05,082 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F02E480>
+2020-05-14 19:49:05,082 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-05-14 19:49:05,082 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-05-14 19:49:05,131 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-05-14 19:49:05,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-05-14 19:49:05,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:49:05,211 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-05-14 19:49:05,211 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:49:25,003 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-05-14 19:49:25,003 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-05-14 19:49:25,572 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 17.1423482895
+2020-05-14 19:49:25,673 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F02E480>
+2020-05-14 19:49:25,673 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-05-14 19:49:25,673 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-05-14 19:49:25,753 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-05-14 19:49:25,822 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-05-14 19:49:25,822 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:49:25,822 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-05-14 19:49:25,832 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:49:55,183 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-05-14 19:49:55,183 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-05-14 19:49:55,282 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 17.0397069454
+2020-05-14 19:49:55,382 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F02E480>
+2020-05-14 19:49:55,382 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-05-14 19:49:55,382 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-05-14 19:49:55,433 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-05-14 19:49:55,503 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-05-14 19:49:55,503 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:49:55,503 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-05-14 19:49:55,513 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:50:02,493 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-05-14 19:50:02,493 [WARNI] [Thread-5] [ExperimentEagle.fits] [func=run:line=153] Cannot test conditional fit, because variable 'eagleID' is missing
+2020-05-14 19:50:02,493 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:50:02,493 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:50:02,493 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:50:02,523 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:50:02,532 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:50:02,532 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:50:02,532 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-05-14 19:50:02,532 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=run:line=172] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-05-14 19:50:02,532 [INFO ] [Thread-5] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-05-14 19:50:02,612 [INFO ] [Thread-5] [ExperimentEagle.fits] [func=run:line=177] saving last fit results to a separate text file
+2020-05-14 19:50:12,562 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-05-14 19:50:12,562 [WARNI] [Thread-6] [ExperimentEagle.fits] [func=run:line=153] Cannot test conditional fit, because variable 'eagleID' is missing
+2020-05-14 19:50:12,562 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:50:12,562 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:50:12,572 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:50:12,602 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:50:12,602 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:50:12,602 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:50:12,602 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-05-14 19:50:12,602 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=run:line=172] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-05-14 19:50:12,602 [INFO ] [Thread-6] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-05-14 19:50:12,693 [INFO ] [Thread-6] [ExperimentEagle.fits] [func=run:line=177] saving last fit results to a separate text file
+2020-05-14 19:50:20,953 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-05-14 19:50:20,953 [WARNI] [Thread-7] [ExperimentEagle.fits] [func=run:line=153] Cannot test conditional fit, because variable 'eagleID' is missing
+2020-05-14 19:50:20,953 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:50:20,963 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:50:20,963 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:50:20,983 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=371] xs array sliced length 64 
+2020-05-14 19:50:20,993 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=372] ys array sliced length 82  
+2020-05-14 19:50:20,993 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=374] zs sub space array 82,64 
+2020-05-14 19:50:20,993 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-05-14 19:50:20,993 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=run:line=172] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-05-14 19:50:20,993 [INFO ] [Thread-7] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-05-14 19:50:21,072 [INFO ] [Thread-7] [ExperimentEagle.fits] [func=run:line=177] saving last fit results to a separate text file
+2020-05-14 19:50:25,372 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-05-14 19:50:25,372 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-05-14 19:50:25,473 [WARNI] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=129] Age of sequence file: 17.152715683
+2020-05-14 19:50:25,572 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.standardAndor1.StandardAndor1 object at 0x0F02E480>
+2020-05-14 19:50:25,572 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=process:line=76] using standard Andor 0 process function
+2020-05-14 19:50:25,572 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-05-14 19:50:25,622 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=opticalDensity:line=65] Calculate OD picture..
+2020-05-14 19:50:25,683 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (721,721)
+2020-05-14 19:50:25,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:50:25,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1018] succesfully completed getImageData. Will now break from repetition loop
+2020-05-14 19:50:25,693 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-05-14 19:50:55,553 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################

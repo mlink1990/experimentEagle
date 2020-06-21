@@ -1,0 +1,28 @@
+{
+    "pixelSize": 9.0,
+    "magnification": 1.0,
+    "searchString": "ALTA0",
+    "watchFolder": "T:/TOFAtomNumber/eagleWatchedFolder",
+
+    "colorRange": {
+        "auto": false,
+        "min": 0,
+        "max": 2
+    },
+    "horizontalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 5
+    },
+    "verticalRange": {
+        "auto": false,
+        "min": -0.2,
+        "max": 5
+    },
+
+    "scale": 10089.33,
+    "offset": 5000.0,
+    "tofVariable": "ImagingTimeTOFNa",
+
+    "imageMode": "optical density image"
+}

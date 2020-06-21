@@ -1,0 +1,62 @@
+2020-04-20 07:21:59,499 [INFO ] [MainThread] [ExperimentEagle] [func=<module>:line=60] Welcome to Experiment Eagle version 4.0 written by Timothy Harrison. Report bugs to 
+Timothy Harrison. See text at beginning of __init__.py for more information.
+2020-04-20 07:22:19,826 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-20 07:22:19,890 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=loadSettings:line=599] Load settings
+2020-04-20 07:22:19,904 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=__init__:line=596] initialisation of experiment Eagle complete
+2020-04-20 07:22:25,859 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-20 07:24:29,654 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-04-20 07:24:29,671 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-04-20 07:24:29,686 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-04-20 07:24:44,404 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1002] ######################## Selected File changed ########################
+2020-04-20 07:24:44,424 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_selectedFile_changed:line=1004] Update physics
+2020-04-20 07:24:44,424 [ERROR] [MainThread] [ExperimentEagle.physicsProperties] [func=updatePhysics:line=141] Error when trying to load XML 'PhysicsProperties' object has no attribute 'selectedFileModifiedTime'
+2020-04-20 07:24:54,561 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-20 07:24:55,061 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-20 07:25:14,765 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-20 07:25:14,779 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.processors.Processor object at 0x0000000016B02588>
+2020-04-20 07:25:14,779 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-20 07:25:14,999 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=read:line=44] loaded picture is not monochromatic, take mean of color values..
+2020-04-20 07:25:15,186 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1944,2592)
+2020-04-20 07:25:15,186 [WARNI] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=173] number of pixels in image have changed. This causes problems for contour fit plot. Will destroy contour fit plot first
+2020-04-20 07:25:15,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to False
+2020-04-20 07:25:15,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_fixAspectRatioBool_changed:line=970] self.fixAspectRatioBool changed to True
+2020-04-20 07:25:15,201 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=175] continuing after pixels changed = True event
+2020-04-20 07:25:15,249 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-20 07:25:15,249 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=_forceRefreshButton_fired:line=202] force refresh button fired
+2020-04-20 07:25:15,263 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=166] processor = <processors.processors.Processor object at 0x0000000016B02588>
+2020-04-20 07:25:15,263 [INFO ] [MainThread] [ExperimentEagle.Processor] [func=read:line=41] processor reading file!
+2020-04-20 07:25:15,451 [WARNI] [MainThread] [ExperimentEagle.Processor] [func=read:line=44] loaded picture is not monochromatic, take mean of color values..
+2020-04-20 07:25:15,654 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=getImageData:line=170] shape of raw Image = (1944,2592)
+2020-04-20 07:25:15,686 [INFO ] [MainThread] [ExperimentEagle.experimentEagle] [func=update:line=840] updating plot
+2020-04-20 07:25:27,686 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=286] Box selection complete
+2020-04-20 07:26:17,390 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 668 
+2020-04-20 07:26:17,404 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 702  
+2020-04-20 07:26:17,421 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 702,668 
+2020-04-20 07:26:17,983 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-04-20 07:26:18,046 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 668 
+2020-04-20 07:26:18,046 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 702  
+2020-04-20 07:26:18,061 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 702,668 
+2020-04-20 07:26:21,342 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 668 
+2020-04-20 07:26:21,342 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 702  
+2020-04-20 07:26:21,342 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 702,668 
+2020-04-20 07:26:21,358 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-04-20 07:26:21,374 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=163] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-04-20 07:26:21,388 [INFO ] [Thread-3] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=825] first fit plot so initialising contour plot
+2020-04-20 07:26:21,404 [INFO ] [Thread-3] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-04-20 07:26:21,888 [WARNI] [MainThread] [ExperimentEagle.fits] [func=_fit_routine:line=419] Fitting is already running. You should wait till this fit has timed out before a new thread is started....
+2020-04-20 07:26:21,983 [INFO ] [Thread-3] [ExperimentEagle.fits] [func=run:line=168] saving last fit results to a separate text file
+2020-04-20 07:27:46,108 [CRITI] [MainThread] [ExperimentEagle.experimentEagle] [func=_box_selection_complete:line=286] Box selection complete
+2020-04-20 07:27:48,796 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=144] starting fitting thread
+2020-04-20 07:27:48,796 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 1023 
+2020-04-20 07:27:48,796 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 942  
+2020-04-20 07:27:48,811 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 942,1023 
+2020-04-20 07:28:20,420 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_log_fit:line=561] creating a new log folder \\192.168.16.71\Humphry\Data\eagleLogs\2020 04 19 - vertical dipole beam profile
+2020-04-20 07:28:20,499 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=359] xs array sliced length 1023 
+2020-04-20 07:28:20,515 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=360] ys array sliced length 942  
+2020-04-20 07:28:20,515 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_get_subSpaceArrays:line=362] zs sub space array 942,1023 
+2020-04-20 07:28:20,546 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=_deriveCalculatedParameters:line=157] Derived values from fit
+2020-04-20 07:28:20,592 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=163] auto draw bool is true so using the rerefernce to imageInspector bool to call the function to draw the fit as contours
+2020-04-20 07:28:20,592 [INFO ] [Thread-4] [ExperimentEagle.experimentEagle] [func=addFitPlot:line=827] attempting to set fit data
+2020-04-20 07:28:21,154 [INFO ] [Thread-4] [ExperimentEagle.fits] [func=run:line=168] saving last fit results to a separate text file
+2020-04-20 07:29:55,983 [INFO ] [MainThread] [ExperimentEagle.fits] [func=_log_fit:line=561] creating a new log folder \\192.168.16.71\Humphry\Data\eagleLogs\2020 04 19 - vertical dipole beam profile
+2020-04-20 10:49:29,013 [ERROR] [MainThread] [ExperimentEagle.experimentEagle] [func=closed:line=240] couldn't stop current timer 'NoneType' object has no attribute 'stop' 
